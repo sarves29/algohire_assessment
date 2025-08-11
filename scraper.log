@@ -1,0 +1,1452 @@
+2025-08-11 18:51:29,116 - INFO - Script started.
+2025-08-11 18:51:29,117 - INFO - Starting Playwright context...
+2025-08-11 18:51:29,468 - INFO - Playwright started.
+2025-08-11 18:51:29,468 - INFO - Launching Chromium browser...
+2025-08-11 18:51:29,559 - INFO - Browser launched.
+2025-08-11 18:51:29,744 - INFO - New page created.
+2025-08-11 18:51:29,745 - INFO - Navigating to https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
+2025-08-11 18:51:31,427 - INFO - Page navigation complete.
+2025-08-11 18:51:32,408 - INFO - Page load state 'networkidle' reached.
+2025-08-11 18:51:33,415 - INFO - Scraping page 1
+2025-08-11 18:51:33,520 - INFO - Found 117 laptop cards with selector 'div.card.thumbnail'
+2025-08-11 18:51:33,521 - INFO - Attempting to extract laptop data...
+2025-08-11 18:51:33,521 - INFO - Processing laptop card 1
+2025-08-11 18:51:33,542 - INFO - title: Asus VivoBook X441NA-GA190
+2025-08-11 18:51:33,550 - INFO - price: $295.99
+2025-08-11 18:51:33,559 - INFO - description: Asus VivoBook X441NA-GA190 Chocolate Black, 14", Celeron N3450, 4GB, 128GB SSD, Endless OS, ENG kbd
+2025-08-11 18:51:33,567 - INFO - reviews_count: 14
+2025-08-11 18:51:33,584 - INFO - rating: 3
+2025-08-11 18:51:33,593 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/60
+2025-08-11 18:51:33,655 - INFO - Opened detail page for Asus VivoBook X441NA-GA190
+2025-08-11 18:51:35,013 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/60
+2025-08-11 18:51:35,976 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:51:35,985 - INFO - DETAIL PAGE HTML FOR Asus VivoBook X441NA-GA190 (first product):
+<!DOCTYPE html><html lang="en"><head>
+	<!-- Google Tag Manager -->
+<script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-Q9KY1T6XJQ&amp;cx=c&amp;gtm=45He5861v79311205za200&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~105033766~105033768~105103161~105103163~105135708~105135710" nonce=""></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js" nonce=""></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NVFPDWB"></script><script nonce="">(function (w, d, s, l, i) {
+		w[l] = w[l] || [];
+		w[l].push({
+			'gtm.start':
+				new Date().getTime(), event: 'gtm.js'
+		});
+		var f = d.getElementsByTagName(s)[0],
+			j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+		j.async = true;
+		j.src =
+			'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+		f.parentNode.insertBefore(j, f);
+	})(window, document, 'script', 'dataLayer', 'GTM-NVFPDWB');</script>
+<!-- End Google Tag Manager -->
+	<title>Web Scraper - The #1 web scraping extension</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<meta name="keywords" content="web scraping,Web Scraper,Chrome extension,Crawling,Cross platform scraper">
+	<meta name="description" content="The most popular web scraping extension. Start scraping in minutes. Automate your tasks with our Cloud Scraper. No software to download, no coding needed.">
+	<link rel="icon" sizes="128x128" href="/favicon.png" type="image/png">
+	<link rel="icon" href="/favicon.ico" sizes="16x16 32x32" type="image/x-icon">
+	<link rel="apple-touch-icon" href="/logo-icon.png" type="image/png">
+	<link rel="icon" href="/icon.svg" type="image/svg+xml">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+	<link href="https://fonts.googl
+2025-08-11 18:51:36,050 - INFO - description: Asus VivoBook X441NA-GA190 Chocolate Black, 14", Celeron N3450, 4GB, 128GB SSD, Endless OS, ENG kbd
+2025-08-11 18:51:36,050 - INFO - Detail page closed.
+2025-08-11 18:51:36,051 - INFO - Processing laptop card 2
+2025-08-11 18:51:36,069 - INFO - title: Prestigio SmartBook 133S Dark Grey
+2025-08-11 18:51:36,083 - INFO - price: $299.00
+2025-08-11 18:51:36,100 - INFO - description: Prestigio SmartBook 133S Dark Grey, 13.3" FHD IPS, Celeron N3350 1.1GHz, 4GB, 32GB, Windows 10 Pro + Office 365 1 gadam
+2025-08-11 18:51:36,113 - INFO - reviews_count: 8
+2025-08-11 18:51:36,128 - INFO - rating: 2
+2025-08-11 18:51:36,135 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/61
+2025-08-11 18:51:36,213 - INFO - Opened detail page for Prestigio SmartBook 133S Dark Grey
+2025-08-11 18:51:37,579 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/61
+2025-08-11 18:51:38,576 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:51:38,643 - INFO - description: Prestigio SmartBook 133S Dark Grey, 13.3" FHD IPS, Celeron N3350 1.1GHz, 4GB, 32GB, Windows 10 Pro + Office 365 1 gadam
+2025-08-11 18:51:38,644 - INFO - Detail page closed.
+2025-08-11 18:51:38,644 - INFO - Processing laptop card 3
+2025-08-11 18:51:38,658 - INFO - title: Prestigio SmartBook 133S Gold
+2025-08-11 18:51:38,668 - INFO - price: $299.00
+2025-08-11 18:51:38,678 - INFO - description: Prestigio SmartBook 133S Gold, 13.3" FHD IPS, Celeron N3350 1.1GHz, 4GB, 32GB, Windows 10 Pro + Office 365 1 gadam
+2025-08-11 18:51:38,698 - INFO - reviews_count: 12
+2025-08-11 18:51:38,719 - INFO - rating: 4
+2025-08-11 18:51:38,725 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/62
+2025-08-11 18:51:38,855 - INFO - Opened detail page for Prestigio SmartBook 133S Gold
+2025-08-11 18:51:39,845 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/62
+2025-08-11 18:51:40,803 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:51:40,891 - INFO - description: Prestigio SmartBook 133S Gold, 13.3" FHD IPS, Celeron N3350 1.1GHz, 4GB, 32GB, Windows 10 Pro + Office 365 1 gadam
+2025-08-11 18:51:40,892 - INFO - Detail page closed.
+2025-08-11 18:51:40,892 - INFO - Processing laptop card 4
+2025-08-11 18:51:40,919 - INFO - title: Aspire E1-510
+2025-08-11 18:51:40,945 - INFO - price: $306.99
+2025-08-11 18:51:40,958 - INFO - description: 15.6", Pentium N3520 2.16GHz, 4GB, 500GB, Linux
+2025-08-11 18:51:40,972 - INFO - reviews_count: 2
+2025-08-11 18:51:40,982 - INFO - rating: 3
+2025-08-11 18:51:40,986 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/32
+2025-08-11 18:51:41,048 - INFO - Opened detail page for Aspire E1-510
+2025-08-11 18:51:42,102 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/32
+2025-08-11 18:51:43,187 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:51:43,254 - INFO - description: 15.6", Pentium N3520 2.16GHz, 4GB, 500GB, Linux
+2025-08-11 18:51:43,254 - INFO - Detail page closed.
+2025-08-11 18:51:43,254 - INFO - Processing laptop card 5
+2025-08-11 18:51:43,268 - INFO - title: Lenovo V110-15IAP
+2025-08-11 18:51:43,278 - INFO - price: $321.94
+2025-08-11 18:51:43,286 - INFO - description: Lenovo V110-15IAP, 15.6" HD, Celeron N3350 1.1GHz, 4GB, 128GB SSD, Windows 10 Home
+2025-08-11 18:51:43,294 - INFO - reviews_count: 5
+2025-08-11 18:51:43,302 - INFO - rating: 3
+2025-08-11 18:51:43,308 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/63
+2025-08-11 18:51:43,378 - INFO - Opened detail page for Lenovo V110-15IAP
+2025-08-11 18:51:44,354 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/63
+2025-08-11 18:51:45,315 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:51:45,383 - INFO - description: Lenovo V110-15IAP, 15.6" HD, Celeron N3350 1.1GHz, 4GB, 128GB SSD, Windows 10 Home
+2025-08-11 18:51:45,384 - INFO - Detail page closed.
+2025-08-11 18:51:45,384 - INFO - Processing laptop card 6
+2025-08-11 18:51:45,394 - INFO - title: Lenovo V110-15IAP
+2025-08-11 18:51:45,402 - INFO - price: $356.49
+2025-08-11 18:51:45,411 - INFO - description: Asus VivoBook 15 X540NA-GQ008T Chocolate Black, 15.6" HD, Pentium N4200, 4GB, 500GB, Windows 10 Home, En kbd
+2025-08-11 18:51:45,421 - INFO - reviews_count: 6
+2025-08-11 18:51:45,430 - INFO - rating: 2
+2025-08-11 18:51:45,434 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/64
+2025-08-11 18:51:45,492 - INFO - Opened detail page for Lenovo V110-15IAP
+2025-08-11 18:51:46,813 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/64
+2025-08-11 18:51:47,783 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:51:47,831 - INFO - description: Asus VivoBook 15 X540NA-GQ008T Chocolate Black, 15.6" HD, Pentium N4200, 4GB, 500GB, Windows 10 Home, En kbd
+2025-08-11 18:51:47,831 - INFO - Detail page closed.
+2025-08-11 18:51:47,831 - INFO - Processing laptop card 7
+2025-08-11 18:51:47,849 - INFO - title: Hewlett Packard 250 G6 Dark Ash Silver
+2025-08-11 18:51:47,860 - INFO - price: $364.46
+2025-08-11 18:51:47,866 - INFO - description: Hewlett Packard 250 G6 Dark Ash Silver, 15.6" HD, Celeron N3060 1.6GHz, 4GB, 128GB SSD, DOS
+2025-08-11 18:51:47,874 - INFO - reviews_count: 12
+2025-08-11 18:51:47,881 - INFO - rating: 1
+2025-08-11 18:51:47,884 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/65
+2025-08-11 18:51:47,942 - INFO - Opened detail page for Hewlett Packard 250 G6 Dark Ash Silver
+2025-08-11 18:51:49,358 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/65
+2025-08-11 18:51:50,328 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:51:50,392 - INFO - description: Hewlett Packard 250 G6 Dark Ash Silver, 15.6" HD, Celeron N3060 1.6GHz, 4GB, 128GB SSD, DOS
+2025-08-11 18:51:50,392 - INFO - Detail page closed.
+2025-08-11 18:51:50,392 - INFO - Processing laptop card 8
+2025-08-11 18:51:50,411 - INFO - title: Acer Aspire 3 A315-31 Black
+2025-08-11 18:51:50,423 - INFO - price: $372.70
+2025-08-11 18:51:50,431 - INFO - description: Acer Aspire 3 A315-31 Black, 15.6" HD, Celeron N3350 1.1GHz, 4GB, 128GB SSD, Windows 10 Home
+2025-08-11 18:51:50,440 - INFO - reviews_count: 2
+2025-08-11 18:51:50,447 - INFO - rating: 2
+2025-08-11 18:51:50,450 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/66
+2025-08-11 18:51:50,510 - INFO - Opened detail page for Acer Aspire 3 A315-31 Black
+2025-08-11 18:51:51,465 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/66
+2025-08-11 18:51:52,453 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:51:52,517 - INFO - description: Acer Aspire 3 A315-31 Black, 15.6" HD, Celeron N3350 1.1GHz, 4GB, 128GB SSD, Windows 10 Home
+2025-08-11 18:51:52,517 - INFO - Detail page closed.
+2025-08-11 18:51:52,517 - INFO - Processing laptop card 9
+2025-08-11 18:51:52,530 - INFO - title: Acer Aspire A315-31-C33J
+2025-08-11 18:51:52,541 - INFO - price: $379.94
+2025-08-11 18:51:52,559 - INFO - description: Acer Aspire A315-31-C33J Black 15.6", HD, Celeron N3350, 4GB DDR3L, 128GB, Windows 10 Home, ENG
+2025-08-11 18:51:52,573 - INFO - reviews_count: 0
+2025-08-11 18:51:52,587 - INFO - rating: 2
+2025-08-11 18:51:52,592 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/67
+2025-08-11 18:51:52,657 - INFO - Opened detail page for Acer Aspire A315-31-C33J
+2025-08-11 18:51:53,649 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/67
+2025-08-11 18:51:54,615 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:51:54,707 - INFO - description: Acer Aspire A315-31-C33J Black 15.6", HD, Celeron N3350, 4GB DDR3L, 128GB, Windows 10 Home, ENG
+2025-08-11 18:51:54,707 - INFO - Detail page closed.
+2025-08-11 18:51:54,707 - INFO - Processing laptop card 10
+2025-08-11 18:51:54,727 - INFO - title: Acer Aspire ES1-572 Black
+2025-08-11 18:51:54,744 - INFO - price: $379.95
+2025-08-11 18:51:54,752 - INFO - description: Acer Aspire ES1-572 Black, 15.6" HD, Core i3-6006U, 4GB, 128GB SSD, Linux
+2025-08-11 18:51:54,767 - INFO - reviews_count: 9
+2025-08-11 18:51:54,775 - INFO - rating: 4
+2025-08-11 18:51:54,779 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/68
+2025-08-11 18:51:54,839 - INFO - Opened detail page for Acer Aspire ES1-572 Black
+2025-08-11 18:51:55,836 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/68
+2025-08-11 18:51:56,787 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:51:56,841 - INFO - description: Acer Aspire ES1-572 Black, 15.6" HD, Core i3-6006U, 4GB, 128GB SSD, Linux
+2025-08-11 18:51:56,841 - INFO - Detail page closed.
+2025-08-11 18:51:56,841 - INFO - Processing laptop card 11
+2025-08-11 18:51:56,853 - INFO - title: Acer Aspire 3 A315-31 Black
+2025-08-11 18:51:56,864 - INFO - price: $391.48
+2025-08-11 18:51:56,872 - INFO - description: Acer Aspire 3 A315-31 Black, 15.6" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home
+2025-08-11 18:51:56,880 - INFO - reviews_count: 10
+2025-08-11 18:51:56,886 - INFO - rating: 4
+2025-08-11 18:51:56,888 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/69
+2025-08-11 18:51:56,946 - INFO - Opened detail page for Acer Aspire 3 A315-31 Black
+2025-08-11 18:51:58,412 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/69
+2025-08-11 18:51:59,356 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:51:59,429 - INFO - description: Acer Aspire 3 A315-31 Black, 15.6" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home
+2025-08-11 18:51:59,429 - INFO - Detail page closed.
+2025-08-11 18:51:59,429 - INFO - Processing laptop card 12
+2025-08-11 18:51:59,451 - INFO - title: Acer Aspire 3 A315-21
+2025-08-11 18:51:59,466 - INFO - price: $393.88
+2025-08-11 18:51:59,477 - INFO - description: Acer Aspire 3 A315-21, 15.6", AMD A4-9120. 4GB. 128GB SSD, Linux
+2025-08-11 18:51:59,487 - INFO - reviews_count: 9
+2025-08-11 18:51:59,497 - INFO - rating: 3
+2025-08-11 18:51:59,502 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/70
+2025-08-11 18:51:59,559 - INFO - Opened detail page for Acer Aspire 3 A315-21
+2025-08-11 18:52:00,901 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/70
+2025-08-11 18:52:01,864 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:52:01,936 - INFO - description: Acer Aspire 3 A315-21, 15.6", AMD A4-9120. 4GB. 128GB SSD, Linux
+2025-08-11 18:52:01,936 - INFO - Detail page closed.
+2025-08-11 18:52:01,936 - INFO - Processing laptop card 13
+2025-08-11 18:52:01,966 - INFO - title: Asus VivoBook Max
+2025-08-11 18:52:01,973 - INFO - price: $399.00
+2025-08-11 18:52:01,980 - INFO - description: Asus VivoBook Max X541NA-GQ041 Black Chocolate, 15.6" HD, Pentium N4200 1.1GHz, 4GB, 500GB, Windows 10 Home
+2025-08-11 18:52:01,987 - INFO - reviews_count: 4
+2025-08-11 18:52:02,000 - INFO - rating: 1
+2025-08-11 18:52:02,005 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/45
+2025-08-11 18:52:02,061 - INFO - Opened detail page for Asus VivoBook Max
+2025-08-11 18:52:03,057 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/45
+2025-08-11 18:52:04,038 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:52:04,093 - INFO - description: Asus VivoBook Max X541NA-GQ041 Black Chocolate, 15.6" HD, Pentium N4200 1.1GHz, 4GB, 500GB, Windows 10 Home
+2025-08-11 18:52:04,093 - INFO - Detail page closed.
+2025-08-11 18:52:04,093 - INFO - Processing laptop card 14
+2025-08-11 18:52:04,113 - INFO - title: Asus VivoBook E502NA-GO022T Dark Blue
+2025-08-11 18:52:04,127 - INFO - price: $399.99
+2025-08-11 18:52:04,144 - INFO - description: Asus VivoBook E502NA-GO022T Dark Blue, 15.6" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home, En/Ru kbd
+2025-08-11 18:52:04,160 - INFO - reviews_count: 3
+2025-08-11 18:52:04,177 - INFO - rating: 4
+2025-08-11 18:52:04,184 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/71
+2025-08-11 18:52:04,257 - INFO - Opened detail page for Asus VivoBook E502NA-GO022T Dark Blue
+2025-08-11 18:52:05,266 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/71
+2025-08-11 18:52:06,227 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:52:06,293 - INFO - description: Asus VivoBook E502NA-GO022T Dark Blue, 15.6" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home, En/Ru kbd
+2025-08-11 18:52:06,293 - INFO - Detail page closed.
+2025-08-11 18:52:06,293 - INFO - Processing laptop card 15
+2025-08-11 18:52:06,314 - INFO - title: Lenovo ThinkPad E31-80
+2025-08-11 18:52:06,325 - INFO - price: $404.23
+2025-08-11 18:52:06,332 - INFO - description: Lenovo ThinkPad E31-80, 13.3" HD, Celeron 3855U 1.6GHz, 4GB, 128GB SSD, Windows 10 Home
+2025-08-11 18:52:06,338 - INFO - reviews_count: 12
+2025-08-11 18:52:06,346 - INFO - rating: 1
+2025-08-11 18:52:06,350 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/72
+2025-08-11 18:52:06,411 - INFO - Opened detail page for Lenovo ThinkPad E31-80
+2025-08-11 18:52:08,258 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/72
+2025-08-11 18:52:09,359 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:52:09,420 - INFO - description: Lenovo ThinkPad E31-80, 13.3" HD, Celeron 3855U 1.6GHz, 4GB, 128GB SSD, Windows 10 Home
+2025-08-11 18:52:09,420 - INFO - Detail page closed.
+2025-08-11 18:52:09,421 - INFO - Processing laptop card 16
+2025-08-11 18:52:09,437 - INFO - title: Acer Aspire 3 A315-31 Black
+2025-08-11 18:52:09,446 - INFO - price: $408.98
+2025-08-11 18:52:09,453 - INFO - description: Acer Aspire 3 A315-31 Black, 15.6" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home
+2025-08-11 18:52:09,460 - INFO - reviews_count: 10
+2025-08-11 18:52:09,467 - INFO - rating: 4
+2025-08-11 18:52:09,470 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/73
+2025-08-11 18:52:09,522 - INFO - Opened detail page for Acer Aspire 3 A315-31 Black
+2025-08-11 18:52:10,917 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/73
+2025-08-11 18:52:11,909 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:52:11,974 - INFO - description: Acer Aspire 3 A315-31 Black, 15.6" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home
+2025-08-11 18:52:11,974 - INFO - Detail page closed.
+2025-08-11 18:52:11,974 - INFO - Processing laptop card 17
+2025-08-11 18:52:11,991 - INFO - title: Lenovo V110-15ISK
+2025-08-11 18:52:11,999 - INFO - price: $409.63
+2025-08-11 18:52:12,008 - INFO - description: Lenovo V110-15ISK, 15.6" HD, Core i3-6006U, 8GB, 128GB SSD, Windows 10 Home
+2025-08-11 18:52:12,014 - INFO - reviews_count: 9
+2025-08-11 18:52:12,021 - INFO - rating: 3
+2025-08-11 18:52:12,025 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/74
+2025-08-11 18:52:12,081 - INFO - Opened detail page for Lenovo V110-15ISK
+2025-08-11 18:52:13,243 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/74
+2025-08-11 18:52:14,603 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:52:14,668 - INFO - description: Lenovo V110-15ISK, 15.6" HD, Core i3-6006U, 8GB, 128GB SSD, Windows 10 Home
+2025-08-11 18:52:14,668 - INFO - Detail page closed.
+2025-08-11 18:52:14,668 - INFO - Processing laptop card 18
+2025-08-11 18:52:14,685 - INFO - title: Acer Aspire ES1-732 Black
+2025-08-11 18:52:14,694 - INFO - price: $410.46
+2025-08-11 18:52:14,700 - INFO - description: Acer Aspire ES1-732 Black, 17.3" HD+, Celeron, N3350, 4GB, 1TB, Windows 10 Home
+2025-08-11 18:52:14,708 - INFO - reviews_count: 14
+2025-08-11 18:52:14,715 - INFO - rating: 4
+2025-08-11 18:52:14,718 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/75
+2025-08-11 18:52:14,772 - INFO - Opened detail page for Acer Aspire ES1-732 Black
+2025-08-11 18:52:15,843 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/75
+2025-08-11 18:52:16,851 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:52:16,924 - INFO - description: Acer Aspire ES1-732 Black, 17.3" HD+, Celeron, N3350, 4GB, 1TB, Windows 10 Home
+2025-08-11 18:52:16,924 - INFO - Detail page closed.
+2025-08-11 18:52:16,925 - INFO - Processing laptop card 19
+2025-08-11 18:52:16,944 - INFO - title: Asus VivoBook 15 X540NA-GQ026T
+2025-08-11 18:52:16,958 - INFO - price: $410.66
+2025-08-11 18:52:16,968 - INFO - description: Asus VivoBook 15 X540NA-GQ026T Chocolate Black, 15.6" HD, Pentium N4200, 4GB, 128GB SSD, Windows 10 Home, En/Ru kbd
+2025-08-11 18:52:16,979 - INFO - reviews_count: 4
+2025-08-11 18:52:16,988 - INFO - rating: 4
+2025-08-11 18:52:16,993 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/76
+2025-08-11 18:52:17,053 - INFO - Opened detail page for Asus VivoBook 15 X540NA-GQ026T
+2025-08-11 18:52:18,555 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/76
+2025-08-11 18:52:19,662 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:52:19,728 - INFO - description: Asus VivoBook 15 X540NA-GQ026T Chocolate Black, 15.6" HD, Pentium N4200, 4GB, 128GB SSD, Windows 10 Home, En/Ru kbd
+2025-08-11 18:52:19,728 - INFO - Detail page closed.
+2025-08-11 18:52:19,728 - INFO - Processing laptop card 20
+2025-08-11 18:52:19,743 - INFO - title: Packard 255 G2
+2025-08-11 18:52:19,756 - INFO - price: $416.99
+2025-08-11 18:52:19,763 - INFO - description: 15.6", AMD E2-3800 1.3GHz, 4GB, 500GB, Windows 8.1
+2025-08-11 18:52:19,770 - INFO - reviews_count: 2
+2025-08-11 18:52:19,776 - INFO - rating: 2
+2025-08-11 18:52:19,779 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/31
+2025-08-11 18:52:19,837 - INFO - Opened detail page for Packard 255 G2
+2025-08-11 18:52:21,196 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/31
+2025-08-11 18:52:22,159 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:52:22,224 - INFO - description: 15.6", AMD E2-3800 1.3GHz, 4GB, 500GB, Windows 8.1
+2025-08-11 18:52:22,224 - INFO - Detail page closed.
+2025-08-11 18:52:22,224 - INFO - Processing laptop card 21
+2025-08-11 18:52:22,243 - INFO - title: Asus EeeBook R416NA-FA014T
+2025-08-11 18:52:22,251 - INFO - price: $433.30
+2025-08-11 18:52:22,258 - INFO - description: Asus EeeBook R416NA-FA014T, 14" FHD, Pentium N4200, 4GB, 128GB eMMC, Windows 10 Home, Eng kbd
+2025-08-11 18:52:22,267 - INFO - reviews_count: 1
+2025-08-11 18:52:22,274 - INFO - rating: 1
+2025-08-11 18:52:22,277 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/77
+2025-08-11 18:52:22,336 - INFO - Opened detail page for Asus EeeBook R416NA-FA014T
+2025-08-11 18:52:23,702 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/77
+2025-08-11 18:52:24,693 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:52:24,759 - INFO - description: Asus EeeBook R416NA-FA014T, 14" FHD, Pentium N4200, 4GB, 128GB eMMC, Windows 10 Home, Eng kbd
+2025-08-11 18:52:24,759 - INFO - Detail page closed.
+2025-08-11 18:52:24,759 - INFO - Processing laptop card 22
+2025-08-11 18:52:24,777 - INFO - title: Acer Aspire 3 A315-51
+2025-08-11 18:52:24,787 - INFO - price: $436.29
+2025-08-11 18:52:24,794 - INFO - description: Acer Aspire 3 A315-51, 15.6" HD, Core i3-6006U, 4GB, 1TB, Windows 10 Home
+2025-08-11 18:52:24,801 - INFO - reviews_count: 1
+2025-08-11 18:52:24,808 - INFO - rating: 1
+2025-08-11 18:52:24,811 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/78
+2025-08-11 18:52:24,865 - INFO - Opened detail page for Acer Aspire 3 A315-51
+2025-08-11 18:52:25,915 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/78
+2025-08-11 18:52:26,919 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:52:26,991 - INFO - description: Acer Aspire 3 A315-51, 15.6" HD, Core i3-6006U, 4GB, 1TB, Windows 10 Home
+2025-08-11 18:52:26,991 - INFO - Detail page closed.
+2025-08-11 18:52:26,991 - INFO - Processing laptop card 23
+2025-08-11 18:52:27,009 - INFO - title: Acer Aspire ES1-572 Black
+2025-08-11 18:52:27,019 - INFO - price: $436.29
+2025-08-11 18:52:27,028 - INFO - description: Acer Aspire ES1-572 Black, 15.6" HD, Core i3-6006U, 4GB, 500GB, Windows 10 Home
+2025-08-11 18:52:27,036 - INFO - reviews_count: 2
+2025-08-11 18:52:27,043 - INFO - rating: 1
+2025-08-11 18:52:27,047 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/79
+2025-08-11 18:52:27,104 - INFO - Opened detail page for Acer Aspire ES1-572 Black
+2025-08-11 18:52:28,156 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/79
+2025-08-11 18:52:29,123 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:52:29,190 - INFO - description: Acer Aspire ES1-572 Black, 15.6" HD, Core i3-6006U, 4GB, 500GB, Windows 10 Home
+2025-08-11 18:52:29,191 - INFO - Detail page closed.
+2025-08-11 18:52:29,191 - INFO - Processing laptop card 24
+2025-08-11 18:52:29,211 - INFO - title: Acer Extensa 15 (2540) Black
+2025-08-11 18:52:29,225 - INFO - price: $439.73
+2025-08-11 18:52:29,234 - INFO - description: Acer Extensa 15 (2540) Black, 15.6" HD, Core i5-7200U, 4GB, 500GB, Linux
+2025-08-11 18:52:29,241 - INFO - reviews_count: 6
+2025-08-11 18:52:29,248 - INFO - rating: 4
+2025-08-11 18:52:29,251 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/80
+2025-08-11 18:52:29,309 - INFO - Opened detail page for Acer Extensa 15 (2540) Black
+2025-08-11 18:52:30,811 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/80
+2025-08-11 18:52:31,798 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:52:31,876 - INFO - description: Acer Extensa 15 (2540) Black, 15.6" HD, Core i5-7200U, 4GB, 500GB, Linux
+2025-08-11 18:52:31,876 - INFO - Detail page closed.
+2025-08-11 18:52:31,876 - INFO - Processing laptop card 25
+2025-08-11 18:52:31,897 - INFO - title: Acer Aspire ES1-572 Black
+2025-08-11 18:52:31,914 - INFO - price: $454.62
+2025-08-11 18:52:31,923 - INFO - description: Acer Aspire ES1-572 Black, 15.6" HD, Core i5-7200U, 4GB, 500GB, Linux
+2025-08-11 18:52:31,931 - INFO - reviews_count: 9
+2025-08-11 18:52:31,940 - INFO - rating: 1
+2025-08-11 18:52:31,945 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/81
+2025-08-11 18:52:42,058 - INFO - Opened detail page for Acer Aspire ES1-572 Black
+2025-08-11 18:52:53,542 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/81
+2025-08-11 18:52:54,503 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:52:54,560 - INFO - description: Acer Aspire ES1-572 Black, 15.6" HD, Core i5-7200U, 4GB, 500GB, Linux
+2025-08-11 18:52:54,560 - INFO - Detail page closed.
+2025-08-11 18:52:54,560 - INFO - Processing laptop card 26
+2025-08-11 18:52:54,571 - INFO - title: Lenovo V110-15ISK
+2025-08-11 18:52:54,579 - INFO - price: $454.73
+2025-08-11 18:52:54,587 - INFO - description: Lenovo V110-15ISK, 15.6" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Pro
+2025-08-11 18:52:54,594 - INFO - reviews_count: 2
+2025-08-11 18:52:54,601 - INFO - rating: 2
+2025-08-11 18:52:54,606 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/82
+2025-08-11 18:53:04,812 - INFO - Opened detail page for Lenovo V110-15ISK
+2025-08-11 18:53:16,626 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/82
+2025-08-11 18:53:17,798 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:53:17,866 - INFO - description: Lenovo V110-15ISK, 15.6" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Pro
+2025-08-11 18:53:17,867 - INFO - Detail page closed.
+2025-08-11 18:53:17,867 - INFO - Processing laptop card 27
+2025-08-11 18:53:17,877 - INFO - title: Acer Aspire A315-51-33TG
+2025-08-11 18:53:17,895 - INFO - price: $457.38
+2025-08-11 18:53:17,903 - INFO - description: Acer Aspire A315-51-33TG, Black 15.6" HD, Core i3-7100U, 4GB DDR4, 128GB SSD, Windows 10 Home, ENG
+2025-08-11 18:53:17,910 - INFO - reviews_count: 9
+2025-08-11 18:53:17,916 - INFO - rating: 3
+2025-08-11 18:53:17,919 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/83
+2025-08-11 18:53:28,009 - INFO - Opened detail page for Acer Aspire A315-51-33TG
+2025-08-11 18:53:30,185 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/83
+2025-08-11 18:53:31,203 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:53:31,276 - INFO - description: Acer Aspire A315-51-33TG, Black 15.6" HD, Core i3-7100U, 4GB DDR4, 128GB SSD, Windows 10 Home, ENG
+2025-08-11 18:53:31,276 - INFO - Detail page closed.
+2025-08-11 18:53:31,276 - INFO - Processing laptop card 28
+2025-08-11 18:53:31,289 - INFO - title: Lenovo V110-15IKB
+2025-08-11 18:53:31,298 - INFO - price: $465.95
+2025-08-11 18:53:31,307 - INFO - description: Lenovo V110-15IKB, 15.6" HD, Core i5-7200U, 4GB, 500GB, DOS
+2025-08-11 18:53:31,315 - INFO - reviews_count: 7
+2025-08-11 18:53:31,322 - INFO - rating: 1
+2025-08-11 18:53:31,326 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/84
+2025-08-11 18:53:33,974 - INFO - Opened detail page for Lenovo V110-15IKB
+2025-08-11 18:53:35,728 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/84
+2025-08-11 18:53:36,856 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:53:36,921 - INFO - description: Lenovo V110-15IKB, 15.6" HD, Core i5-7200U, 4GB, 500GB, DOS
+2025-08-11 18:53:36,921 - INFO - Detail page closed.
+2025-08-11 18:53:36,921 - INFO - Processing laptop card 29
+2025-08-11 18:53:36,935 - INFO - title: Asus VivoBook 15 X540UA-DM260 Chocolate Black
+2025-08-11 18:53:36,948 - INFO - price: $468.56
+2025-08-11 18:53:36,955 - INFO - description: Asus VivoBook 15 X540UA-DM260 Chocolate Black, 15.6" FHD, Core i3-6006U, 4GB, 256GB SSD, Endless OS, En kbd
+2025-08-11 18:53:36,963 - INFO - reviews_count: 1
+2025-08-11 18:53:36,969 - INFO - rating: 3
+2025-08-11 18:53:36,971 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/85
+2025-08-11 18:53:37,026 - INFO - Opened detail page for Asus VivoBook 15 X540UA-DM260 Chocolate Black
+2025-08-11 18:53:38,397 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/85
+2025-08-11 18:53:39,405 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:53:39,471 - INFO - description: Asus VivoBook 15 X540UA-DM260 Chocolate Black, 15.6" FHD, Core i3-6006U, 4GB, 256GB SSD, Endless OS, En kbd
+2025-08-11 18:53:39,471 - INFO - Detail page closed.
+2025-08-11 18:53:39,471 - INFO - Processing laptop card 30
+2025-08-11 18:53:39,489 - INFO - title: Acer Aspire ES1-572 Black
+2025-08-11 18:53:39,505 - INFO - price: $469.10
+2025-08-11 18:53:39,511 - INFO - description: Acer Aspire ES1-572 Black, 15.6" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home
+2025-08-11 18:53:39,521 - INFO - reviews_count: 5
+2025-08-11 18:53:39,538 - INFO - rating: 3
+2025-08-11 18:53:39,546 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/86
+2025-08-11 18:53:39,964 - INFO - Opened detail page for Acer Aspire ES1-572 Black
+2025-08-11 18:53:41,682 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/86
+2025-08-11 18:53:42,642 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:53:42,704 - INFO - description: Acer Aspire ES1-572 Black, 15.6" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home
+2025-08-11 18:53:42,704 - INFO - Detail page closed.
+2025-08-11 18:53:42,704 - INFO - Processing laptop card 31
+2025-08-11 18:53:42,716 - INFO - title: Lenovo V510 Black
+2025-08-11 18:53:42,722 - INFO - price: $484.23
+2025-08-11 18:53:42,731 - INFO - description: Lenovo V510 Black, 14" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home
+2025-08-11 18:53:42,739 - INFO - reviews_count: 8
+2025-08-11 18:53:42,745 - INFO - rating: 3
+2025-08-11 18:53:42,748 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/87
+2025-08-11 18:53:43,207 - INFO - Opened detail page for Lenovo V510 Black
+2025-08-11 18:53:44,275 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/87
+2025-08-11 18:53:45,317 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:53:45,383 - INFO - description: Lenovo V510 Black, 14" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home
+2025-08-11 18:53:45,383 - INFO - Detail page closed.
+2025-08-11 18:53:45,383 - INFO - Processing laptop card 32
+2025-08-11 18:53:45,396 - INFO - title: Acer Aspire ES1-572 Black
+2025-08-11 18:53:45,406 - INFO - price: $485.90
+2025-08-11 18:53:45,419 - INFO - description: Acer Aspire ES1-572 Black, 15.6" HD, Core i5-7200U, 4GB, 128GB SSD, Linux
+2025-08-11 18:53:45,427 - INFO - reviews_count: 6
+2025-08-11 18:53:45,433 - INFO - rating: 3
+2025-08-11 18:53:45,437 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/88
+2025-08-11 18:53:46,248 - INFO - Opened detail page for Acer Aspire ES1-572 Black
+2025-08-11 18:53:47,972 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/88
+2025-08-11 18:53:49,015 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:53:49,086 - INFO - description: Acer Aspire ES1-572 Black, 15.6" HD, Core i5-7200U, 4GB, 128GB SSD, Linux
+2025-08-11 18:53:49,086 - INFO - Detail page closed.
+2025-08-11 18:53:49,086 - INFO - Processing laptop card 33
+2025-08-11 18:53:49,098 - INFO - title: Lenovo V510 Black
+2025-08-11 18:53:49,105 - INFO - price: $487.80
+2025-08-11 18:53:49,112 - INFO - description: Lenovo V510 Black, 15.6" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home
+2025-08-11 18:53:49,120 - INFO - reviews_count: 9
+2025-08-11 18:53:49,132 - INFO - rating: 2
+2025-08-11 18:53:49,136 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/89
+2025-08-11 18:53:49,238 - INFO - Opened detail page for Lenovo V510 Black
+2025-08-11 18:53:50,700 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/89
+2025-08-11 18:53:51,777 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:53:51,857 - INFO - description: Lenovo V510 Black, 15.6" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home
+2025-08-11 18:53:51,857 - INFO - Detail page closed.
+2025-08-11 18:53:51,858 - INFO - Processing laptop card 34
+2025-08-11 18:53:51,869 - INFO - title: Acer Swift 1 SF113-31 Silver
+2025-08-11 18:53:51,876 - INFO - price: $488.64
+2025-08-11 18:53:51,886 - INFO - description: Acer Swift 1 SF113-31 Silver, 13.3" FHD, Pentium N4200, 4GB, 128GB SSD, Windows 10 Home
+2025-08-11 18:53:51,892 - INFO - reviews_count: 4
+2025-08-11 18:53:51,901 - INFO - rating: 3
+2025-08-11 18:53:51,905 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/90
+2025-08-11 18:53:52,282 - INFO - Opened detail page for Acer Swift 1 SF113-31 Silver
+2025-08-11 18:53:54,376 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/90
+2025-08-11 18:53:55,398 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:53:55,478 - INFO - description: Acer Swift 1 SF113-31 Silver, 13.3" FHD, Pentium N4200, 4GB, 128GB SSD, Windows 10 Home
+2025-08-11 18:53:55,478 - INFO - Detail page closed.
+2025-08-11 18:53:55,478 - INFO - Processing laptop card 35
+2025-08-11 18:53:55,498 - INFO - title: Dell Vostro 15
+2025-08-11 18:53:55,511 - INFO - price: $488.78
+2025-08-11 18:53:55,521 - INFO - description: Dell Vostro 15 (3568) Black, 15.6" FHD, Core i5-7200U, 4GB, 128GB SSD, Radeon R5 M420 2GB, Linux
+2025-08-11 18:53:55,529 - INFO - reviews_count: 14
+2025-08-11 18:53:55,539 - INFO - rating: 4
+2025-08-11 18:53:55,543 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/46
+2025-08-11 18:53:56,305 - INFO - Opened detail page for Dell Vostro 15
+2025-08-11 18:53:57,858 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/46
+2025-08-11 18:53:58,799 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:53:58,851 - INFO - description: Dell Vostro 15 (3568) Black, 15.6" FHD, Core i5-7200U, 4GB, 128GB SSD, Radeon R5 M420 2GB, Linux
+2025-08-11 18:53:58,851 - INFO - Detail page closed.
+2025-08-11 18:53:58,851 - INFO - Processing laptop card 36
+2025-08-11 18:53:58,862 - INFO - title: Acer Aspire 3 A315-51 Black
+2025-08-11 18:53:58,870 - INFO - price: $494.71
+2025-08-11 18:53:58,879 - INFO - description: Acer Aspire 3 A315-51 Black, 15.6" FHD, Core i3-7100U, 4GB, 500GB + 128GB SSD, Windows 10 Home
+2025-08-11 18:53:58,886 - INFO - reviews_count: 2
+2025-08-11 18:53:58,895 - INFO - rating: 4
+2025-08-11 18:53:58,898 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/91
+2025-08-11 18:53:59,311 - INFO - Opened detail page for Acer Aspire 3 A315-51 Black
+2025-08-11 18:54:00,390 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/91
+2025-08-11 18:54:01,420 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:54:01,494 - INFO - description: Acer Aspire 3 A315-51 Black, 15.6" FHD, Core i3-7100U, 4GB, 500GB + 128GB SSD, Windows 10 Home
+2025-08-11 18:54:01,494 - INFO - Detail page closed.
+2025-08-11 18:54:01,494 - INFO - Processing laptop card 37
+2025-08-11 18:54:01,511 - INFO - title: Dell Vostro 15 (3568) Red
+2025-08-11 18:54:01,532 - INFO - price: $497.17
+2025-08-11 18:54:01,545 - INFO - description: Dell Vostro 15 (3568) Red, 15.6" HD, Core i5-7200U, 4GB, 1TB, Radeon R5 M420 2GB, Linux
+2025-08-11 18:54:01,553 - INFO - reviews_count: 9
+2025-08-11 18:54:01,560 - INFO - rating: 1
+2025-08-11 18:54:01,563 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/92
+2025-08-11 18:54:02,366 - INFO - Opened detail page for Dell Vostro 15 (3568) Red
+2025-08-11 18:54:04,119 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/92
+2025-08-11 18:54:05,069 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:54:05,145 - INFO - description: Dell Vostro 15 (3568) Red, 15.6" HD, Core i5-7200U, 4GB, 1TB, Radeon R5 M420 2GB, Linux
+2025-08-11 18:54:05,145 - INFO - Detail page closed.
+2025-08-11 18:54:05,145 - INFO - Processing laptop card 38
+2025-08-11 18:54:05,157 - INFO - title: Lenovo V510 Black
+2025-08-11 18:54:05,165 - INFO - price: $498.23
+2025-08-11 18:54:05,172 - INFO - description: Lenovo V510 Black, 15.6" FHD, Core i3-7100U, 4GB, 128GB SSD, Windows 10 Pro
+2025-08-11 18:54:05,179 - INFO - reviews_count: 5
+2025-08-11 18:54:05,187 - INFO - rating: 3
+2025-08-11 18:54:05,189 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/93
+2025-08-11 18:54:05,405 - INFO - Opened detail page for Lenovo V510 Black
+2025-08-11 18:54:06,405 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/93
+2025-08-11 18:54:07,501 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:54:07,599 - INFO - description: Lenovo V510 Black, 15.6" FHD, Core i3-7100U, 4GB, 128GB SSD, Windows 10 Pro
+2025-08-11 18:54:07,599 - INFO - Detail page closed.
+2025-08-11 18:54:07,599 - INFO - Processing laptop card 39
+2025-08-11 18:54:07,619 - INFO - title: HP 250 G3
+2025-08-11 18:54:07,640 - INFO - price: $520.99
+2025-08-11 18:54:07,658 - INFO - description: 15.6", Core i5-4210U, 4GB, 500GB, Windows 8.1
+2025-08-11 18:54:07,671 - INFO - reviews_count: 13
+2025-08-11 18:54:07,682 - INFO - rating: 2
+2025-08-11 18:54:07,686 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/42
+2025-08-11 18:54:08,508 - INFO - Opened detail page for HP 250 G3
+2025-08-11 18:54:10,275 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/42
+2025-08-11 18:54:11,232 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:54:11,313 - INFO - description: 15.6", Core i5-4210U, 4GB, 500GB, Windows 8.1
+2025-08-11 18:54:11,313 - INFO - Detail page closed.
+2025-08-11 18:54:11,313 - INFO - Processing laptop card 40
+2025-08-11 18:54:11,326 - INFO - title: Acer Spin 5
+2025-08-11 18:54:11,334 - INFO - price: $564.98
+2025-08-11 18:54:11,353 - INFO - description: Acer Spin 5 SP513-51 Black, 13.3" FHD Touch, Core i3-7100U, 4GB, 128GB SSD, Windows 10 Home
+2025-08-11 18:54:11,360 - INFO - reviews_count: 0
+2025-08-11 18:54:11,368 - INFO - rating: 2
+2025-08-11 18:54:11,372 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/47
+2025-08-11 18:54:11,427 - INFO - Opened detail page for Acer Spin 5
+2025-08-11 18:54:12,389 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/47
+2025-08-11 18:54:13,401 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:54:13,474 - INFO - description: Acer Spin 5 SP513-51 Black, 13.3" FHD Touch, Core i3-7100U, 4GB, 128GB SSD, Windows 10 Home
+2025-08-11 18:54:13,474 - INFO - Detail page closed.
+2025-08-11 18:54:13,474 - INFO - Processing laptop card 41
+2025-08-11 18:54:13,487 - INFO - title: HP 350 G1
+2025-08-11 18:54:13,494 - INFO - price: $577.99
+2025-08-11 18:54:13,502 - INFO - description: 15.6", Core i5-4200U, 4GB, 750GB, Radeon HD8670M 2GB, Windows
+2025-08-11 18:54:13,509 - INFO - reviews_count: 10
+2025-08-11 18:54:13,521 - INFO - rating: 2
+2025-08-11 18:54:13,530 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/44
+2025-08-11 18:54:14,483 - INFO - Opened detail page for HP 350 G1
+2025-08-11 18:54:16,344 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/44
+2025-08-11 18:54:17,328 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:54:17,402 - INFO - description: 15.6", Core i5-4200U, 4GB, 750GB, Radeon HD8670M 2GB, Windows
+2025-08-11 18:54:17,402 - INFO - Detail page closed.
+2025-08-11 18:54:17,402 - INFO - Processing laptop card 42
+2025-08-11 18:54:17,418 - INFO - title: Aspire E1-572G
+2025-08-11 18:54:17,434 - INFO - price: $581.99
+2025-08-11 18:54:17,441 - INFO - description: 15.6", Core i5-4200U, 8GB, 1TB, Radeon R7 M265, Windows 8.1
+2025-08-11 18:54:17,449 - INFO - reviews_count: 2
+2025-08-11 18:54:17,457 - INFO - rating: 1
+2025-08-11 18:54:17,461 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/36
+2025-08-11 18:54:17,519 - INFO - Opened detail page for Aspire E1-572G
+2025-08-11 18:54:20,227 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/36
+2025-08-11 18:54:21,193 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:54:21,269 - INFO - description: 15.6", Core i5-4200U, 8GB, 1TB, Radeon R7 M265, Windows 8.1
+2025-08-11 18:54:21,269 - INFO - Detail page closed.
+2025-08-11 18:54:21,270 - INFO - Processing laptop card 43
+2025-08-11 18:54:21,282 - INFO - title: Pavilion
+2025-08-11 18:54:21,289 - INFO - price: $609.99
+2025-08-11 18:54:21,297 - INFO - description: 15.6", Core i5-4200U, 6GB, 750GB, Windows 8.1
+2025-08-11 18:54:21,304 - INFO - reviews_count: 4
+2025-08-11 18:54:21,311 - INFO - rating: 1
+2025-08-11 18:54:21,314 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/38
+2025-08-11 18:54:21,561 - INFO - Opened detail page for Pavilion
+2025-08-11 18:54:22,593 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/38
+2025-08-11 18:54:23,562 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:54:23,631 - INFO - description: 15.6", Core i5-4200U, 6GB, 750GB, Windows 8.1
+2025-08-11 18:54:23,631 - INFO - Detail page closed.
+2025-08-11 18:54:23,631 - INFO - Processing laptop card 44
+2025-08-11 18:54:23,660 - INFO - title: Acer Aspire A515-51-5654
+2025-08-11 18:54:23,680 - INFO - price: $679.00
+2025-08-11 18:54:23,688 - INFO - description: Acer Aspire A515-51-5654, Black, 15.6", FHD, Core i5-8250U, 8GB DDR4, 256GB SSD, Windows 10 Home, ENG
+2025-08-11 18:54:23,695 - INFO - reviews_count: 9
+2025-08-11 18:54:23,703 - INFO - rating: 2
+2025-08-11 18:54:23,706 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/48
+2025-08-11 18:54:24,629 - INFO - Opened detail page for Acer Aspire A515-51-5654
+2025-08-11 18:54:26,409 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/48
+2025-08-11 18:54:27,385 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:54:27,479 - INFO - description: Acer Aspire A515-51-5654, Black, 15.6", FHD, Core i5-8250U, 8GB DDR4, 256GB SSD, Windows 10 Home, ENG
+2025-08-11 18:54:27,479 - INFO - Detail page closed.
+2025-08-11 18:54:27,480 - INFO - Processing laptop card 45
+2025-08-11 18:54:27,496 - INFO - title: Dell Inspiron 15
+2025-08-11 18:54:27,504 - INFO - price: $679.00
+2025-08-11 18:54:27,512 - INFO - description: Dell Inspiron 15 (5567) Fog Gray, 15.6" FHD, Core i5-7200U, 8GB, 1TB, Radeon R7 M445 4GB, Linux
+2025-08-11 18:54:27,519 - INFO - reviews_count: 7
+2025-08-11 18:54:27,527 - INFO - rating: 2
+2025-08-11 18:54:27,529 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/49
+2025-08-11 18:54:27,589 - INFO - Opened detail page for Dell Inspiron 15
+2025-08-11 18:54:30,503 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/49
+2025-08-11 18:54:31,540 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:54:31,626 - INFO - description: Dell Inspiron 15 (5567) Fog Gray, 15.6" FHD, Core i5-7200U, 8GB, 1TB, Radeon R7 M445 4GB, Linux
+2025-08-11 18:54:31,626 - INFO - Detail page closed.
+2025-08-11 18:54:31,626 - INFO - Processing laptop card 46
+2025-08-11 18:54:31,647 - INFO - title: Asus VivoBook S14
+2025-08-11 18:54:31,655 - INFO - price: $729.00
+2025-08-11 18:54:31,661 - INFO - description: Asus VivoBook S14 (S406UA-BV041T) Starry Grey, 14", Core i5-8250U, 8GB, 256GB SSD, Windows 10 Home, Eng kbd
+2025-08-11 18:54:31,669 - INFO - reviews_count: 2
+2025-08-11 18:54:31,675 - INFO - rating: 1
+2025-08-11 18:54:31,678 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/50
+2025-08-11 18:54:31,733 - INFO - Opened detail page for Asus VivoBook S14
+2025-08-11 18:54:32,895 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/50
+2025-08-11 18:54:33,935 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:54:34,004 - INFO - description: Asus VivoBook S14 (S406UA-BV041T) Starry Grey, 14", Core i5-8250U, 8GB, 256GB SSD, Windows 10 Home, Eng kbd
+2025-08-11 18:54:34,005 - INFO - Detail page closed.
+2025-08-11 18:54:34,005 - INFO - Processing laptop card 47
+2025-08-11 18:54:34,016 - INFO - title: ProBook
+2025-08-11 18:54:34,023 - INFO - price: $739.99
+2025-08-11 18:54:34,031 - INFO - description: 14", Core i5 2.6GHz, 4GB, 500GB, Win7 Pro 64bit
+2025-08-11 18:54:34,039 - INFO - reviews_count: 8
+2025-08-11 18:54:34,045 - INFO - rating: 4
+2025-08-11 18:54:34,049 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/34
+2025-08-11 18:54:34,452 - INFO - Opened detail page for ProBook
+2025-08-11 18:54:36,072 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/34
+2025-08-11 18:54:37,191 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:54:37,276 - INFO - description: 14", Core i5 2.6GHz, 4GB, 500GB, Win7 Pro 64bit
+2025-08-11 18:54:37,276 - INFO - Detail page closed.
+2025-08-11 18:54:37,276 - INFO - Processing laptop card 48
+2025-08-11 18:54:37,289 - INFO - title: Inspiron 15
+2025-08-11 18:54:37,297 - INFO - price: $745.99
+2025-08-11 18:54:37,306 - INFO - description: Moon Silver, 15.6", Core i7-4510U, 8GB, 1TB, Radeon HD R7 M265 2GB,
+2025-08-11 18:54:37,312 - INFO - reviews_count: 12
+2025-08-11 18:54:37,326 - INFO - rating: 3
+2025-08-11 18:54:37,334 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/39
+2025-08-11 18:54:37,640 - INFO - Opened detail page for Inspiron 15
+2025-08-11 18:54:38,479 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/39
+2025-08-11 18:54:39,439 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:54:39,503 - INFO - description: Moon Silver, 15.6", Core i7-4510U, 8GB, 1TB, Radeon HD R7 M265 2GB,
+2025-08-11 18:54:39,503 - INFO - Detail page closed.
+2025-08-11 18:54:39,503 - INFO - Processing laptop card 49
+2025-08-11 18:54:39,521 - INFO - title: Asus ROG STRIX GL553VD-DM256
+2025-08-11 18:54:39,543 - INFO - price: $799.00
+2025-08-11 18:54:39,556 - INFO - description: Asus ROG STRIX GL553VD-DM256, 15.6" FHD, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, No OS
+2025-08-11 18:54:39,572 - INFO - reviews_count: 7
+2025-08-11 18:54:39,589 - INFO - rating: 2
+2025-08-11 18:54:39,599 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/51
+2025-08-11 18:54:40,444 - INFO - Opened detail page for Asus ROG STRIX GL553VD-DM256
+2025-08-11 18:54:42,290 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/51
+2025-08-11 18:54:43,363 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:54:43,430 - INFO - description: Asus ROG STRIX GL553VD-DM256, 15.6" FHD, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, No OS
+2025-08-11 18:54:43,431 - INFO - Detail page closed.
+2025-08-11 18:54:43,431 - INFO - Processing laptop card 50
+2025-08-11 18:54:43,444 - INFO - title: Acer Nitro 5 AN515-51
+2025-08-11 18:54:43,451 - INFO - price: $809.00
+2025-08-11 18:54:43,458 - INFO - description: Acer Nitro 5 AN515-51, 15.6" FHD IPS, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, Windows 10 Home
+2025-08-11 18:54:43,465 - INFO - reviews_count: 0
+2025-08-11 18:54:43,484 - INFO - rating: 1
+2025-08-11 18:54:43,498 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/52
+2025-08-11 18:54:43,666 - INFO - Opened detail page for Acer Nitro 5 AN515-51
+2025-08-11 18:54:44,658 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/52
+2025-08-11 18:54:45,660 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:54:45,743 - INFO - description: Acer Nitro 5 AN515-51, 15.6" FHD IPS, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, Windows 10 Home
+2025-08-11 18:54:45,743 - INFO - Detail page closed.
+2025-08-11 18:54:45,743 - INFO - Processing laptop card 51
+2025-08-11 18:54:45,761 - INFO - title: Asus ROG STRIX GL553VD-DM256
+2025-08-11 18:54:45,772 - INFO - price: $899.00
+2025-08-11 18:54:45,780 - INFO - description: Asus ROG STRIX GL553VD-DM256, 15.6" FHD, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, No OS + Windows 10 Home
+2025-08-11 18:54:45,786 - INFO - reviews_count: 7
+2025-08-11 18:54:45,794 - INFO - rating: 1
+2025-08-11 18:54:45,797 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/53
+2025-08-11 18:54:46,610 - INFO - Opened detail page for Asus ROG STRIX GL553VD-DM256
+2025-08-11 18:54:48,580 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/53
+2025-08-11 18:54:49,559 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:54:49,634 - INFO - description: Asus ROG STRIX GL553VD-DM256, 15.6" FHD, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, No OS + Windows 10 Home
+2025-08-11 18:54:49,634 - INFO - Detail page closed.
+2025-08-11 18:54:49,634 - INFO - Processing laptop card 52
+2025-08-11 18:54:49,650 - INFO - title: Lenovo ThinkPad L570
+2025-08-11 18:54:49,669 - INFO - price: $999.00
+2025-08-11 18:54:49,678 - INFO - description: Lenovo ThinkPad L570, 15.6" FHD, Core i7-7500U, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:54:49,694 - INFO - reviews_count: 11
+2025-08-11 18:54:49,704 - INFO - rating: 3
+2025-08-11 18:54:49,707 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/54
+2025-08-11 18:54:49,761 - INFO - Opened detail page for Lenovo ThinkPad L570
+2025-08-11 18:54:51,219 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/54
+2025-08-11 18:54:52,274 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:54:52,339 - INFO - description: Lenovo ThinkPad L570, 15.6" FHD, Core i7-7500U, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:54:52,340 - INFO - Detail page closed.
+2025-08-11 18:54:52,340 - INFO - Processing laptop card 53
+2025-08-11 18:54:52,353 - INFO - title: ThinkPad Yoga
+2025-08-11 18:54:52,361 - INFO - price: $1,033.99
+2025-08-11 18:54:52,369 - INFO - description: 12.5" Touch, Core i3-4010U, 4GB, 500GB + 16GB SSD Cache,
+2025-08-11 18:54:52,377 - INFO - reviews_count: 13
+2025-08-11 18:54:52,385 - INFO - rating: 2
+2025-08-11 18:54:52,388 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/37
+2025-08-11 18:54:52,784 - INFO - Opened detail page for ThinkPad Yoga
+2025-08-11 18:54:54,434 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/37
+2025-08-11 18:54:55,403 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:54:55,458 - INFO - description: 12.5" Touch, Core i3-4010U, 4GB, 500GB + 16GB SSD Cache,
+2025-08-11 18:54:55,458 - INFO - Detail page closed.
+2025-08-11 18:54:55,458 - INFO - Processing laptop card 54
+2025-08-11 18:54:55,475 - INFO - title: Lenovo ThinkPad L460
+2025-08-11 18:54:55,486 - INFO - price: $1,096.02
+2025-08-11 18:54:55,492 - INFO - description: Lenovo ThinkPad L460, 14" FHD IPS, Core i7-6600U, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:54:55,499 - INFO - reviews_count: 14
+2025-08-11 18:54:55,506 - INFO - rating: 4
+2025-08-11 18:54:55,509 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/94
+2025-08-11 18:54:55,571 - INFO - Opened detail page for Lenovo ThinkPad L460
+2025-08-11 18:54:57,462 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/94
+2025-08-11 18:54:58,457 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:54:58,525 - INFO - description: Lenovo ThinkPad L460, 14" FHD IPS, Core i7-6600U, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:54:58,526 - INFO - Detail page closed.
+2025-08-11 18:54:58,526 - INFO - Processing laptop card 55
+2025-08-11 18:54:58,547 - INFO - title: Dell Inspiron 15 (7567) Black
+2025-08-11 18:54:58,557 - INFO - price: $1,098.42
+2025-08-11 18:54:58,568 - INFO - description: Dell Inspiron 15 (7567) Black, 15.6" FHD, Core i5-7300HQ, 8GB, 256GB SSD, GeForce GTX 1050 4GB, Windows 10 Home
+2025-08-11 18:54:58,581 - INFO - reviews_count: 7
+2025-08-11 18:54:58,589 - INFO - rating: 1
+2025-08-11 18:54:58,592 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/95
+2025-08-11 18:54:58,815 - INFO - Opened detail page for Dell Inspiron 15 (7567) Black
+2025-08-11 18:55:00,452 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/95
+2025-08-11 18:55:01,520 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:55:01,585 - INFO - description: Dell Inspiron 15 (7567) Black, 15.6" FHD, Core i5-7300HQ, 8GB, 256GB SSD, GeForce GTX 1050 4GB, Windows 10 Home
+2025-08-11 18:55:01,585 - INFO - Detail page closed.
+2025-08-11 18:55:01,585 - INFO - Processing laptop card 56
+2025-08-11 18:55:01,598 - INFO - title: MSI GL72M 7RDX
+2025-08-11 18:55:01,607 - INFO - price: $1,099.00
+2025-08-11 18:55:01,617 - INFO - description: MSI GL72M 7RDX, 17.3" FHD, Core i5-7300HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home
+2025-08-11 18:55:01,626 - INFO - reviews_count: 1
+2025-08-11 18:55:01,633 - INFO - rating: 4
+2025-08-11 18:55:01,637 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/96
+2025-08-11 18:55:03,009 - INFO - Opened detail page for MSI GL72M 7RDX
+2025-08-11 18:55:04,753 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/96
+2025-08-11 18:55:05,743 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:55:05,827 - INFO - description: MSI GL72M 7RDX, 17.3" FHD, Core i5-7300HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home
+2025-08-11 18:55:05,827 - INFO - Detail page closed.
+2025-08-11 18:55:05,827 - INFO - Processing laptop card 57
+2025-08-11 18:55:05,843 - INFO - title: MSI GL72M 7RDX
+2025-08-11 18:55:05,857 - INFO - price: $1,099.00
+2025-08-11 18:55:05,866 - INFO - description: Asus ROG Strix GL553VD-DM535T, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home, Eng kbd
+2025-08-11 18:55:05,874 - INFO - reviews_count: 9
+2025-08-11 18:55:05,881 - INFO - rating: 1
+2025-08-11 18:55:05,884 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/97
+2025-08-11 18:55:05,938 - INFO - Opened detail page for MSI GL72M 7RDX
+2025-08-11 18:55:07,237 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/97
+2025-08-11 18:55:08,175 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:55:08,233 - INFO - description: Asus ROG Strix GL553VD-DM535T, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home, Eng kbd
+2025-08-11 18:55:08,234 - INFO - Detail page closed.
+2025-08-11 18:55:08,234 - INFO - Processing laptop card 58
+2025-08-11 18:55:08,248 - INFO - title: Asus ROG Strix GL553VD-DM535T
+2025-08-11 18:55:08,256 - INFO - price: $1,101.83
+2025-08-11 18:55:08,265 - INFO - description: Apple MacBook Air 13.3", Core i5 1.8GHz, 8GB, 128GB SSD, Intel HD 4000, RUS
+2025-08-11 18:55:08,273 - INFO - reviews_count: 4
+2025-08-11 18:55:08,280 - INFO - rating: 2
+2025-08-11 18:55:08,283 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/98
+2025-08-11 18:55:08,861 - INFO - Opened detail page for Asus ROG Strix GL553VD-DM535T
+2025-08-11 18:55:10,618 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/98
+2025-08-11 18:55:11,625 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:55:11,698 - INFO - description: Apple MacBook Air 13.3", Core i5 1.8GHz, 8GB, 128GB SSD, Intel HD 4000, RUS
+2025-08-11 18:55:11,698 - INFO - Detail page closed.
+2025-08-11 18:55:11,698 - INFO - Processing laptop card 59
+2025-08-11 18:55:11,716 - INFO - title: Dell Latitude 5280
+2025-08-11 18:55:11,724 - INFO - price: $1,102.66
+2025-08-11 18:55:11,730 - INFO - description: Dell Latitude 5280, 12.5" HD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:55:11,738 - INFO - reviews_count: 8
+2025-08-11 18:55:11,744 - INFO - rating: 1
+2025-08-11 18:55:11,747 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/99
+2025-08-11 18:55:11,808 - INFO - Opened detail page for Dell Latitude 5280
+2025-08-11 18:55:13,554 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/99
+2025-08-11 18:55:14,618 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:55:14,688 - INFO - description: Dell Latitude 5280, 12.5" HD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:55:14,688 - INFO - Detail page closed.
+2025-08-11 18:55:14,688 - INFO - Processing laptop card 60
+2025-08-11 18:55:14,709 - INFO - title: Dell Latitude 5480
+2025-08-11 18:55:14,719 - INFO - price: $1,110.14
+2025-08-11 18:55:14,728 - INFO - description: Dell Latitude 5480, 14" FHD, Core i5-7300U, 8GB, 500GB, Linux + Windows 10 Home
+2025-08-11 18:55:14,734 - INFO - reviews_count: 4
+2025-08-11 18:55:14,741 - INFO - rating: 3
+2025-08-11 18:55:14,746 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/100
+2025-08-11 18:55:14,999 - INFO - Opened detail page for Dell Latitude 5480
+2025-08-11 18:55:16,595 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/100
+2025-08-11 18:55:17,566 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:55:17,642 - INFO - description: Dell Latitude 5480, 14" FHD, Core i5-7300U, 8GB, 500GB, Linux + Windows 10 Home
+2025-08-11 18:55:17,642 - INFO - Detail page closed.
+2025-08-11 18:55:17,642 - INFO - Processing laptop card 61
+2025-08-11 18:55:17,659 - INFO - title: Lenovo Legion Y520-15IKBM
+2025-08-11 18:55:17,673 - INFO - price: $1,112.91
+2025-08-11 18:55:17,686 - INFO - description: Lenovo Legion Y520-15IKBM, Black, 15.6" FHD IPS, Core i5-7300HQ, 8 GB, 128GB SSD + 2 TB HDD, NVIDIA GeForce GTX 1060 6 GB, FreeDOS + Windows 10 Home
+2025-08-11 18:55:17,693 - INFO - reviews_count: 1
+2025-08-11 18:55:17,701 - INFO - rating: 4
+2025-08-11 18:55:17,705 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/101
+2025-08-11 18:55:19,138 - INFO - Opened detail page for Lenovo Legion Y520-15IKBM
+2025-08-11 18:55:20,692 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/101
+2025-08-11 18:55:21,653 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:55:21,736 - INFO - description: Lenovo Legion Y520-15IKBM, Black, 15.6" FHD IPS, Core i5-7300HQ, 8 GB, 128GB SSD + 2 TB HDD, NVIDIA GeForce GTX 1060 6 GB, FreeDOS + Windows 10 Home
+2025-08-11 18:55:21,737 - INFO - Detail page closed.
+2025-08-11 18:55:21,737 - INFO - Processing laptop card 62
+2025-08-11 18:55:21,750 - INFO - title: Toshiba Portege Z30-C-16J Grey
+2025-08-11 18:55:21,757 - INFO - price: $1,114.55
+2025-08-11 18:55:21,766 - INFO - description: Toshiba Portege Z30-C-16J Grey, 13.3" FHD, Core i5-6200U, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:55:21,774 - INFO - reviews_count: 0
+2025-08-11 18:55:21,793 - INFO - rating: 1
+2025-08-11 18:55:21,799 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/102
+2025-08-11 18:55:22,069 - INFO - Opened detail page for Toshiba Portege Z30-C-16J Grey
+2025-08-11 18:55:23,638 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/102
+2025-08-11 18:55:24,622 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:55:24,699 - INFO - description: Toshiba Portege Z30-C-16J Grey, 13.3" FHD, Core i5-6200U, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:55:24,700 - INFO - Detail page closed.
+2025-08-11 18:55:24,700 - INFO - Processing laptop card 63
+2025-08-11 18:55:24,712 - INFO - title: Acer Predator Helios 300 (PH317-51)
+2025-08-11 18:55:24,720 - INFO - price: $1,123.87
+2025-08-11 18:55:24,729 - INFO - description: Acer Predator Helios 300 (PH317-51), 17.3" FHD IPS, Core i5-7300HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050Ti 4GB, Windows 10 Home
+2025-08-11 18:55:24,737 - INFO - reviews_count: 1
+2025-08-11 18:55:24,745 - INFO - rating: 2
+2025-08-11 18:55:24,748 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/103
+2025-08-11 18:55:26,091 - INFO - Opened detail page for Acer Predator Helios 300 (PH317-51)
+2025-08-11 18:55:28,076 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/103
+2025-08-11 18:55:29,056 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:55:29,122 - INFO - description: Acer Predator Helios 300 (PH317-51), 17.3" FHD IPS, Core i5-7300HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050Ti 4GB, Windows 10 Home
+2025-08-11 18:55:29,122 - INFO - Detail page closed.
+2025-08-11 18:55:29,122 - INFO - Processing laptop card 64
+2025-08-11 18:55:29,143 - INFO - title: Acer Aspire 7 A715-71G
+2025-08-11 18:55:29,157 - INFO - price: $1,123.87
+2025-08-11 18:55:29,164 - INFO - description: Acer Aspire 7 A715-71G, 15.6" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 1TB HDD, GTX 1050 Ti 4GB, Windows 10 Home
+2025-08-11 18:55:29,170 - INFO - reviews_count: 4
+2025-08-11 18:55:29,177 - INFO - rating: 2
+2025-08-11 18:55:29,180 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/104
+2025-08-11 18:55:29,236 - INFO - Opened detail page for Acer Aspire 7 A715-71G
+2025-08-11 18:55:30,221 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/104
+2025-08-11 18:55:31,264 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:55:31,371 - INFO - description: Acer Aspire 7 A715-71G, 15.6" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 1TB HDD, GTX 1050 Ti 4GB, Windows 10 Home
+2025-08-11 18:55:31,372 - INFO - Detail page closed.
+2025-08-11 18:55:31,372 - INFO - Processing laptop card 65
+2025-08-11 18:55:31,389 - INFO - title: Dell Inspiron 17 2in1 (7779) Silver
+2025-08-11 18:55:31,403 - INFO - price: $1,124.20
+2025-08-11 18:55:31,415 - INFO - description: Dell Inspiron 17 2in1 (7779) Silver, 17.3" FHD Touch, Core i5-7200U, 12GB, 1TB, GeForce GT940MX 2GB, Windows 10 Home
+2025-08-11 18:55:31,426 - INFO - reviews_count: 10
+2025-08-11 18:55:31,435 - INFO - rating: 3
+2025-08-11 18:55:31,439 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/105
+2025-08-11 18:55:32,050 - INFO - Opened detail page for Dell Inspiron 17 2in1 (7779) Silver
+2025-08-11 18:55:33,661 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/105
+2025-08-11 18:55:34,610 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:55:34,684 - INFO - description: Dell Inspiron 17 2in1 (7779) Silver, 17.3" FHD Touch, Core i5-7200U, 12GB, 1TB, GeForce GT940MX 2GB, Windows 10 Home
+2025-08-11 18:55:34,685 - INFO - Detail page closed.
+2025-08-11 18:55:34,685 - INFO - Processing laptop card 66
+2025-08-11 18:55:34,697 - INFO - title: Dell Latitude 5480
+2025-08-11 18:55:34,704 - INFO - price: $1,133.82
+2025-08-11 18:55:34,712 - INFO - description: Dell Latitude 5480, 14" FHD, Core i5-7300U, 8GB, 500GB, Windows 10 Pro
+2025-08-11 18:55:34,719 - INFO - reviews_count: 14
+2025-08-11 18:55:34,727 - INFO - rating: 4
+2025-08-11 18:55:34,729 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/106
+2025-08-11 18:55:34,788 - INFO - Opened detail page for Dell Latitude 5480
+2025-08-11 18:55:36,745 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/106
+2025-08-11 18:55:37,938 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:55:37,999 - INFO - description: Dell Latitude 5480, 14" FHD, Core i5-7300U, 8GB, 500GB, Windows 10 Pro
+2025-08-11 18:55:37,999 - INFO - Detail page closed.
+2025-08-11 18:55:37,999 - INFO - Processing laptop card 67
+2025-08-11 18:55:38,012 - INFO - title: Lenovo Legion Y520
+2025-08-11 18:55:38,021 - INFO - price: $1,133.91
+2025-08-11 18:55:38,028 - INFO - description: Lenovo Legion Y520, 15.6" FHD, Core i7-7700HQ, 8GB, 128 GB SSD + 1TB HDD, GTX 1050 4GB, Windows 10 Home
+2025-08-11 18:55:38,036 - INFO - reviews_count: 13
+2025-08-11 18:55:38,043 - INFO - rating: 1
+2025-08-11 18:55:38,046 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/107
+2025-08-11 18:55:38,169 - INFO - Opened detail page for Lenovo Legion Y520
+2025-08-11 18:55:39,538 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/107
+2025-08-11 18:55:40,567 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:55:40,650 - INFO - description: Lenovo Legion Y520, 15.6" FHD, Core i7-7700HQ, 8GB, 128 GB SSD + 1TB HDD, GTX 1050 4GB, Windows 10 Home
+2025-08-11 18:55:40,650 - INFO - Detail page closed.
+2025-08-11 18:55:40,650 - INFO - Processing laptop card 68
+2025-08-11 18:55:40,668 - INFO - title: Asus AsusPro Advanced BU401LA-FA271G Dark Grey
+2025-08-11 18:55:40,679 - INFO - price: $1,139.54
+2025-08-11 18:55:40,687 - INFO - description: Asus AsusPro Advanced BU401LA-FA271G Dark Grey, 14", Core i5-4210U, 4GB, 128GB SSD, Win7 Pro 64bit, ENG
+2025-08-11 18:55:40,694 - INFO - reviews_count: 7
+2025-08-11 18:55:40,701 - INFO - rating: 3
+2025-08-11 18:55:40,705 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/108
+2025-08-11 18:55:41,181 - INFO - Opened detail page for Asus AsusPro Advanced BU401LA-FA271G Dark Grey
+2025-08-11 18:55:42,981 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/108
+2025-08-11 18:55:44,049 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:55:44,114 - INFO - description: Asus AsusPro Advanced BU401LA-FA271G Dark Grey, 14", Core i5-4210U, 4GB, 128GB SSD, Win7 Pro 64bit, ENG
+2025-08-11 18:55:44,114 - INFO - Detail page closed.
+2025-08-11 18:55:44,114 - INFO - Processing laptop card 69
+2025-08-11 18:55:44,127 - INFO - title: Acer Nitro 5 AN515-51
+2025-08-11 18:55:44,137 - INFO - price: $1,140.62
+2025-08-11 18:55:44,147 - INFO - description: Acer Nitro 5 AN515-51, 15.6" FHD IPS, Core i7-7700HQ, 8GB, 256GB SSD +1TB, GeForce GTX 1050 Ti 4GB, Windows 10 Home + Windows 10 Home
+2025-08-11 18:55:44,154 - INFO - reviews_count: 14
+2025-08-11 18:55:44,161 - INFO - rating: 3
+2025-08-11 18:55:44,164 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/109
+2025-08-11 18:55:44,218 - INFO - Opened detail page for Acer Nitro 5 AN515-51
+2025-08-11 18:55:45,224 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/109
+2025-08-11 18:55:46,247 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:55:46,325 - INFO - description: Acer Nitro 5 AN515-51, 15.6" FHD IPS, Core i7-7700HQ, 8GB, 256GB SSD +1TB, GeForce GTX 1050 Ti 4GB, Windows 10 Home + Windows 10 Home
+2025-08-11 18:55:46,326 - INFO - Detail page closed.
+2025-08-11 18:55:46,326 - INFO - Processing laptop card 70
+2025-08-11 18:55:46,345 - INFO - title: Dell Latitude 5480
+2025-08-11 18:55:46,359 - INFO - price: $1,143.40
+2025-08-11 18:55:46,367 - INFO - description: Dell Latitude 5480, 14" FHD, Core i5-7440HQ, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:55:46,374 - INFO - reviews_count: 5
+2025-08-11 18:55:46,380 - INFO - rating: 4
+2025-08-11 18:55:46,382 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/110
+2025-08-11 18:55:47,272 - INFO - Opened detail page for Dell Latitude 5480
+2025-08-11 18:55:49,114 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/110
+2025-08-11 18:55:50,130 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:55:50,198 - INFO - description: Dell Latitude 5480, 14" FHD, Core i5-7440HQ, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:55:50,198 - INFO - Detail page closed.
+2025-08-11 18:55:50,198 - INFO - Processing laptop card 71
+2025-08-11 18:55:50,214 - INFO - title: Dell Inspiron 15 (7567) Black
+2025-08-11 18:55:50,226 - INFO - price: $1,144.20
+2025-08-11 18:55:50,233 - INFO - description: Dell Inspiron 15 (7567) Black, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB, GeForce GTX 1050 Ti 4GB, Linux + Windows 10 Home
+2025-08-11 18:55:50,239 - INFO - reviews_count: 2
+2025-08-11 18:55:50,247 - INFO - rating: 1
+2025-08-11 18:55:50,249 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/111
+2025-08-11 18:55:50,311 - INFO - Opened detail page for Dell Inspiron 15 (7567) Black
+2025-08-11 18:55:52,855 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/111
+2025-08-11 18:55:53,823 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:55:53,873 - INFO - description: Dell Inspiron 15 (7567) Black, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB, GeForce GTX 1050 Ti 4GB, Linux + Windows 10 Home
+2025-08-11 18:55:53,873 - INFO - Detail page closed.
+2025-08-11 18:55:53,873 - INFO - Processing laptop card 72
+2025-08-11 18:55:53,885 - INFO - title: Dell Latitude 5580
+2025-08-11 18:55:53,894 - INFO - price: $1,144.40
+2025-08-11 18:55:53,904 - INFO - description: Dell Latitude 5580, 15.6" FHD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:55:53,910 - INFO - reviews_count: 10
+2025-08-11 18:55:53,918 - INFO - rating: 3
+2025-08-11 18:55:53,921 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/112
+2025-08-11 18:55:54,316 - INFO - Opened detail page for Dell Latitude 5580
+2025-08-11 18:55:56,200 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/112
+2025-08-11 18:55:57,245 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:55:57,330 - INFO - description: Dell Latitude 5580, 15.6" FHD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:55:57,330 - INFO - Detail page closed.
+2025-08-11 18:55:57,330 - INFO - Processing laptop card 73
+2025-08-11 18:55:57,350 - INFO - title: Lenovo Legion Y520-15IKBM
+2025-08-11 18:55:57,360 - INFO - price: $1,149.00
+2025-08-11 18:55:57,368 - INFO - description: Lenovo Legion Y520-15IKBM, 15.6" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 1TB, GeForce GTX 1060 Max-Q 6GB, DOS
+2025-08-11 18:55:57,376 - INFO - reviews_count: 11
+2025-08-11 18:55:57,382 - INFO - rating: 3
+2025-08-11 18:55:57,385 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/55
+2025-08-11 18:55:57,443 - INFO - Opened detail page for Lenovo Legion Y520-15IKBM
+2025-08-11 18:56:00,050 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/55
+2025-08-11 18:56:01,123 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:56:01,198 - INFO - description: Lenovo Legion Y520-15IKBM, 15.6" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 1TB, GeForce GTX 1060 Max-Q 6GB, DOS
+2025-08-11 18:56:01,198 - INFO - Detail page closed.
+2025-08-11 18:56:01,198 - INFO - Processing laptop card 74
+2025-08-11 18:56:01,209 - INFO - title: MSI GP62M 7RDX Leopard
+2025-08-11 18:56:01,216 - INFO - price: $1,149.00
+2025-08-11 18:56:01,222 - INFO - description: MSI GP62M 7RDX Leopard, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home
+2025-08-11 18:56:01,230 - INFO - reviews_count: 11
+2025-08-11 18:56:01,243 - INFO - rating: 1
+2025-08-11 18:56:01,250 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/113
+2025-08-11 18:56:01,319 - INFO - Opened detail page for MSI GP62M 7RDX Leopard
+2025-08-11 18:56:02,390 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/113
+2025-08-11 18:56:03,361 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:56:03,411 - INFO - description: MSI GP62M 7RDX Leopard, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home
+2025-08-11 18:56:03,411 - INFO - Detail page closed.
+2025-08-11 18:56:03,411 - INFO - Processing laptop card 75
+2025-08-11 18:56:03,422 - INFO - title: Lenovo Yoga 720 Grey
+2025-08-11 18:56:03,429 - INFO - price: $1,149.73
+2025-08-11 18:56:03,437 - INFO - description: Lenovo Yoga 720 Grey, 15.6" FHD IPS, Core i5-7300HQ, 8GB, 256GB SSD, GeForce GTX 1050 2GB, Windows 10 Home
+2025-08-11 18:56:03,445 - INFO - reviews_count: 12
+2025-08-11 18:56:03,458 - INFO - rating: 2
+2025-08-11 18:56:03,466 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/114
+2025-08-11 18:56:04,502 - INFO - Opened detail page for Lenovo Yoga 720 Grey
+2025-08-11 18:56:06,181 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/114
+2025-08-11 18:56:07,190 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:56:07,261 - INFO - description: Lenovo Yoga 720 Grey, 15.6" FHD IPS, Core i5-7300HQ, 8GB, 256GB SSD, GeForce GTX 1050 2GB, Windows 10 Home
+2025-08-11 18:56:07,261 - INFO - Detail page closed.
+2025-08-11 18:56:07,261 - INFO - Processing laptop card 76
+2025-08-11 18:56:07,287 - INFO - title: Toshiba Portege Z30-C-16L Grey
+2025-08-11 18:56:07,304 - INFO - price: $1,154.04
+2025-08-11 18:56:07,318 - INFO - description: Toshiba Portege Z30-C-16L Grey, 13.3" FHD, Core i7-6500U, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:56:07,331 - INFO - reviews_count: 7
+2025-08-11 18:56:07,342 - INFO - rating: 1
+2025-08-11 18:56:07,348 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/115
+2025-08-11 18:56:07,411 - INFO - Opened detail page for Toshiba Portege Z30-C-16L Grey
+2025-08-11 18:56:08,416 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/115
+2025-08-11 18:56:09,439 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:56:09,513 - INFO - description: Toshiba Portege Z30-C-16L Grey, 13.3" FHD, Core i7-6500U, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:56:09,514 - INFO - Detail page closed.
+2025-08-11 18:56:09,514 - INFO - Processing laptop card 77
+2025-08-11 18:56:09,528 - INFO - title: Acer TravelMate P645-S-511A Black
+2025-08-11 18:56:09,537 - INFO - price: $1,170.10
+2025-08-11 18:56:09,553 - INFO - description: Acer TravelMate P645-S-511A Black, 14" FHD IPS, Core i5-5200U, 8GB, 256GB SSD, 3G, Windows 10 Pro
+2025-08-11 18:56:09,560 - INFO - reviews_count: 0
+2025-08-11 18:56:09,569 - INFO - rating: 1
+2025-08-11 18:56:09,573 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/116
+2025-08-11 18:56:10,550 - INFO - Opened detail page for Acer TravelMate P645-S-511A Black
+2025-08-11 18:56:12,267 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/116
+2025-08-11 18:56:13,231 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:56:13,302 - INFO - description: Acer TravelMate P645-S-511A Black, 14" FHD IPS, Core i5-5200U, 8GB, 256GB SSD, 3G, Windows 10 Pro
+2025-08-11 18:56:13,302 - INFO - Detail page closed.
+2025-08-11 18:56:13,302 - INFO - Processing laptop card 78
+2025-08-11 18:56:13,317 - INFO - title: Dell Latitude 5580
+2025-08-11 18:56:13,334 - INFO - price: $1,178.19
+2025-08-11 18:56:13,342 - INFO - description: Dell Latitude 5580, 15.6" FHD, Core i5-7300U, 16GB, 256GB SSD, Linux + Windows 10 Home
+2025-08-11 18:56:13,351 - INFO - reviews_count: 6
+2025-08-11 18:56:13,359 - INFO - rating: 3
+2025-08-11 18:56:13,363 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/117
+2025-08-11 18:56:13,417 - INFO - Opened detail page for Dell Latitude 5580
+2025-08-11 18:56:14,381 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/117
+2025-08-11 18:56:15,395 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:56:15,436 - INFO - description: Dell Latitude 5580, 15.6" FHD, Core i5-7300U, 16GB, 256GB SSD, Linux + Windows 10 Home
+2025-08-11 18:56:15,436 - INFO - Detail page closed.
+2025-08-11 18:56:15,436 - INFO - Processing laptop card 79
+2025-08-11 18:56:15,451 - INFO - title: ThinkPad T540p
+2025-08-11 18:56:15,465 - INFO - price: $1,178.99
+2025-08-11 18:56:15,482 - INFO - description: 15.6", Core i5-4200M, 4GB, 500GB, Win7 Pro 64bit
+2025-08-11 18:56:15,499 - INFO - reviews_count: 2
+2025-08-11 18:56:15,525 - INFO - rating: 1
+2025-08-11 18:56:15,531 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/33
+2025-08-11 18:56:16,443 - INFO - Opened detail page for ThinkPad T540p
+2025-08-11 18:56:18,099 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/33
+2025-08-11 18:56:19,060 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:56:19,131 - INFO - description: 15.6", Core i5-4200M, 4GB, 500GB, Win7 Pro 64bit
+2025-08-11 18:56:19,132 - INFO - Detail page closed.
+2025-08-11 18:56:19,132 - INFO - Processing laptop card 80
+2025-08-11 18:56:19,154 - INFO - title: MSI GS63 7RD Stealth
+2025-08-11 18:56:19,162 - INFO - price: $1,179.00
+2025-08-11 18:56:19,169 - INFO - description: MSI GS63 7RD Stealth, 15.6" FHD IPS, Core i7-7700HQ, 8GB, 256GB SSD, GeForce GTX 1050 2GB, DOS + Windows 10 Home
+2025-08-11 18:56:19,176 - INFO - reviews_count: 2
+2025-08-11 18:56:19,183 - INFO - rating: 1
+2025-08-11 18:56:19,186 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/118
+2025-08-11 18:56:19,244 - INFO - Opened detail page for MSI GS63 7RD Stealth
+2025-08-11 18:56:20,954 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/118
+2025-08-11 18:56:21,940 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:56:22,033 - INFO - description: MSI GS63 7RD Stealth, 15.6" FHD IPS, Core i7-7700HQ, 8GB, 256GB SSD, GeForce GTX 1050 2GB, DOS + Windows 10 Home
+2025-08-11 18:56:22,033 - INFO - Detail page closed.
+2025-08-11 18:56:22,033 - INFO - Processing laptop card 81
+2025-08-11 18:56:22,045 - INFO - title: Dell Latitude 5480
+2025-08-11 18:56:22,051 - INFO - price: $1,187.88
+2025-08-11 18:56:22,060 - INFO - description: Dell Latitude 5480, 14" FHD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:56:22,067 - INFO - reviews_count: 5
+2025-08-11 18:56:22,074 - INFO - rating: 3
+2025-08-11 18:56:22,077 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/119
+2025-08-11 18:56:22,517 - INFO - Opened detail page for Dell Latitude 5480
+2025-08-11 18:56:23,888 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/119
+2025-08-11 18:56:24,883 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:56:24,960 - INFO - description: Dell Latitude 5480, 14" FHD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:56:24,960 - INFO - Detail page closed.
+2025-08-11 18:56:24,960 - INFO - Processing laptop card 82
+2025-08-11 18:56:24,984 - INFO - title: Acer Predator Helios 300 (PH317-51)
+2025-08-11 18:56:24,999 - INFO - price: $1,187.98
+2025-08-11 18:56:25,012 - INFO - description: Acer Predator Helios 300 (PH317-51), 17.3" FHD IPS, Core i7-7700HQ. 8GB, 128GB SSD +1TB, GeForce GTX 1050Ti 4GB, Linux + Windows 10 Home
+2025-08-11 18:56:25,022 - INFO - reviews_count: 14
+2025-08-11 18:56:25,032 - INFO - rating: 3
+2025-08-11 18:56:25,036 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/120
+2025-08-11 18:56:25,445 - INFO - Opened detail page for Acer Predator Helios 300 (PH317-51)
+2025-08-11 18:56:27,107 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/120
+2025-08-11 18:56:28,192 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:56:28,258 - INFO - description: Acer Predator Helios 300 (PH317-51), 17.3" FHD IPS, Core i7-7700HQ. 8GB, 128GB SSD +1TB, GeForce GTX 1050Ti 4GB, Linux + Windows 10 Home
+2025-08-11 18:56:28,259 - INFO - Detail page closed.
+2025-08-11 18:56:28,259 - INFO - Processing laptop card 83
+2025-08-11 18:56:28,277 - INFO - title: MSI GL62M 7REX
+2025-08-11 18:56:28,285 - INFO - price: $1,199.00
+2025-08-11 18:56:28,291 - INFO - description: MSI GL62M 7REX, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 2GB, Windows 10 Home
+2025-08-11 18:56:28,297 - INFO - reviews_count: 7
+2025-08-11 18:56:28,305 - INFO - rating: 1
+2025-08-11 18:56:28,308 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/121
+2025-08-11 18:56:28,365 - INFO - Opened detail page for MSI GL62M 7REX
+2025-08-11 18:56:29,942 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/121
+2025-08-11 18:56:30,868 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:56:30,962 - INFO - description: MSI GL62M 7REX, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 2GB, Windows 10 Home
+2025-08-11 18:56:30,963 - INFO - Detail page closed.
+2025-08-11 18:56:30,963 - INFO - Processing laptop card 84
+2025-08-11 18:56:31,005 - INFO - title: MSI GL62M 7REX2
+2025-08-11 18:56:31,040 - INFO - price: $1,199.00
+2025-08-11 18:56:31,064 - INFO - description: MSI GL62M 7REX2, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 2GB, Windows 10 Home
+2025-08-11 18:56:31,080 - INFO - reviews_count: 12
+2025-08-11 18:56:31,099 - INFO - rating: 2
+2025-08-11 18:56:31,105 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/122
+2025-08-11 18:56:31,488 - INFO - Opened detail page for MSI GL62M 7REX2
+2025-08-11 18:56:33,167 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/122
+2025-08-11 18:56:34,359 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:56:34,443 - INFO - description: MSI GL62M 7REX2, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 2GB, Windows 10 Home
+2025-08-11 18:56:34,443 - INFO - Detail page closed.
+2025-08-11 18:56:34,443 - INFO - Processing laptop card 85
+2025-08-11 18:56:34,483 - INFO - title: Lenovo Yoga 910 Grey
+2025-08-11 18:56:34,511 - INFO - price: $1,199.73
+2025-08-11 18:56:34,535 - INFO - description: Lenovo Yoga 910 Grey, 13.9" FHD Touch, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Home
+2025-08-11 18:56:34,561 - INFO - reviews_count: 7
+2025-08-11 18:56:34,587 - INFO - rating: 3
+2025-08-11 18:56:34,596 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/123
+2025-08-11 18:56:34,721 - INFO - Opened detail page for Lenovo Yoga 910 Grey
+2025-08-11 18:56:37,236 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/123
+2025-08-11 18:56:38,264 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:56:38,374 - INFO - description: Lenovo Yoga 910 Grey, 13.9" FHD Touch, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Home
+2025-08-11 18:56:38,374 - INFO - Detail page closed.
+2025-08-11 18:56:38,374 - INFO - Processing laptop card 86
+2025-08-11 18:56:38,410 - INFO - title: Toshiba Portege X30-D-10J Black/Blue
+2025-08-11 18:56:38,440 - INFO - price: $1,203.41
+2025-08-11 18:56:38,459 - INFO - description: Toshiba Portege X30-D-10J Black/Blue, 13.3" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:56:38,476 - INFO - reviews_count: 13
+2025-08-11 18:56:38,491 - INFO - rating: 4
+2025-08-11 18:56:38,496 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/124
+2025-08-11 18:56:38,675 - INFO - Opened detail page for Toshiba Portege X30-D-10J Black/Blue
+2025-08-11 18:56:39,616 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/124
+2025-08-11 18:56:40,639 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:56:40,715 - INFO - description: Toshiba Portege X30-D-10J Black/Blue, 13.3" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:56:40,716 - INFO - Detail page closed.
+2025-08-11 18:56:40,716 - INFO - Processing laptop card 87
+2025-08-11 18:56:40,732 - INFO - title: Lenovo IdeaPad Miix 510 Platinum Silver
+2025-08-11 18:56:40,753 - INFO - price: $1,212.16
+2025-08-11 18:56:40,779 - INFO - description: Lenovo IdeaPad Miix 510 Platinum Silver, 12.2" IPS Touch, Core i5-7200U, 8GB, 256GB SSD, 4G, Windows 10 Pro
+2025-08-11 18:56:40,797 - INFO - reviews_count: 0
+2025-08-11 18:56:40,813 - INFO - rating: 4
+2025-08-11 18:56:40,820 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/125
+2025-08-11 18:56:40,973 - INFO - Opened detail page for Lenovo IdeaPad Miix 510 Platinum Silver
+2025-08-11 18:56:42,070 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/125
+2025-08-11 18:56:43,085 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:56:43,220 - INFO - description: Lenovo IdeaPad Miix 510 Platinum Silver, 12.2" IPS Touch, Core i5-7200U, 8GB, 256GB SSD, 4G, Windows 10 Pro
+2025-08-11 18:56:43,220 - INFO - Detail page closed.
+2025-08-11 18:56:43,220 - INFO - Processing laptop card 88
+2025-08-11 18:56:43,237 - INFO - title: Acer Predator Helios 300 (PH317-51)
+2025-08-11 18:56:43,254 - INFO - price: $1,221.58
+2025-08-11 18:56:43,272 - INFO - description: Acer Predator Helios 300 (PH317-51), 17.3" FHD IPS, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 4GB, Windows 10 Home
+2025-08-11 18:56:43,289 - INFO - reviews_count: 9
+2025-08-11 18:56:43,302 - INFO - rating: 1
+2025-08-11 18:56:43,307 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/126
+2025-08-11 18:56:43,699 - INFO - Opened detail page for Acer Predator Helios 300 (PH317-51)
+2025-08-11 18:56:45,082 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/126
+2025-08-11 18:56:46,076 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:56:46,122 - INFO - description: Acer Predator Helios 300 (PH317-51), 17.3" FHD IPS, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 4GB, Windows 10 Home
+2025-08-11 18:56:46,122 - INFO - Detail page closed.
+2025-08-11 18:56:46,123 - INFO - Processing laptop card 89
+2025-08-11 18:56:46,135 - INFO - title: ThinkPad Yoga
+2025-08-11 18:56:46,142 - INFO - price: $1,223.99
+2025-08-11 18:56:46,150 - INFO - description: 12.5" Touch, Core i5 4200U, 8GB, 500GB + 16GB SSD Cache, Windows
+2025-08-11 18:56:46,158 - INFO - reviews_count: 2
+2025-08-11 18:56:46,165 - INFO - rating: 3
+2025-08-11 18:56:46,168 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/43
+2025-08-11 18:56:46,277 - INFO - Opened detail page for ThinkPad Yoga
+2025-08-11 18:56:47,215 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/43
+2025-08-11 18:56:48,163 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:56:48,224 - INFO - description: 12.5" Touch, Core i5 4200U, 8GB, 500GB + 16GB SSD Cache, Windows
+2025-08-11 18:56:48,224 - INFO - Detail page closed.
+2025-08-11 18:56:48,224 - INFO - Processing laptop card 90
+2025-08-11 18:56:48,235 - INFO - title: Asus VivoBook Pro 15 N580VN-FI006T Gold Metal
+2025-08-11 18:56:48,241 - INFO - price: $1,235.49
+2025-08-11 18:56:48,251 - INFO - description: Asus VivoBook Pro 15 N580VN-FI006T Gold Metal, 15.6" UHD, Core i7-7700HQ, 16GB, 1TB + 256GB SSD, GeForce MX150 2GB, Windows 10 Home, Eng kbd
+2025-08-11 18:56:48,259 - INFO - reviews_count: 10
+2025-08-11 18:56:48,267 - INFO - rating: 2
+2025-08-11 18:56:48,270 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/127
+2025-08-11 18:56:48,433 - INFO - Opened detail page for Asus VivoBook Pro 15 N580VN-FI006T Gold Metal
+2025-08-11 18:56:49,789 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/127
+2025-08-11 18:56:50,730 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:56:50,783 - INFO - description: Asus VivoBook Pro 15 N580VN-FI006T Gold Metal, 15.6" UHD, Core i7-7700HQ, 16GB, 1TB + 256GB SSD, GeForce MX150 2GB, Windows 10 Home, Eng kbd
+2025-08-11 18:56:50,784 - INFO - Detail page closed.
+2025-08-11 18:56:50,784 - INFO - Processing laptop card 91
+2025-08-11 18:56:50,799 - INFO - title: Dell Latitude 5480
+2025-08-11 18:56:50,807 - INFO - price: $1,238.37
+2025-08-11 18:56:50,815 - INFO - description: Dell Latitude 5480, 14" FHD, Core i7-7600U, 8GB, 256GB SSD, Linux
+2025-08-11 18:56:50,821 - INFO - reviews_count: 0
+2025-08-11 18:56:50,828 - INFO - rating: 2
+2025-08-11 18:56:50,831 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/128
+2025-08-11 18:56:50,888 - INFO - Opened detail page for Dell Latitude 5480
+2025-08-11 18:56:51,721 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/128
+2025-08-11 18:56:52,647 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:56:52,732 - INFO - description: Dell Latitude 5480, 14" FHD, Core i7-7600U, 8GB, 256GB SSD, Linux
+2025-08-11 18:56:52,733 - INFO - Detail page closed.
+2025-08-11 18:56:52,733 - INFO - Processing laptop card 92
+2025-08-11 18:56:52,752 - INFO - title: Asus ZenBook UX530UX-FY040T Blue
+2025-08-11 18:56:52,763 - INFO - price: $1,239.20
+2025-08-11 18:56:52,772 - INFO - description: Asus ZenBook UX530UX-FY040T Blue, 15.6" FHD, Core i7-7500U, 8GB, 512GB SSD, GeForce GTX950M 2GB, Windows 10 Home, Eng kbd
+2025-08-11 18:56:52,781 - INFO - reviews_count: 14
+2025-08-11 18:56:52,788 - INFO - rating: 1
+2025-08-11 18:56:52,791 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/129
+2025-08-11 18:56:52,876 - INFO - Opened detail page for Asus ZenBook UX530UX-FY040T Blue
+2025-08-11 18:56:54,182 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/129
+2025-08-11 18:56:55,152 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:56:55,221 - INFO - description: Asus ZenBook UX530UX-FY040T Blue, 15.6" FHD, Core i7-7500U, 8GB, 512GB SSD, GeForce GTX950M 2GB, Windows 10 Home, Eng kbd
+2025-08-11 18:56:55,221 - INFO - Detail page closed.
+2025-08-11 18:56:55,221 - INFO - Processing laptop card 93
+2025-08-11 18:56:55,235 - INFO - title: ThinkPad X230
+2025-08-11 18:56:55,242 - INFO - price: $1,244.99
+2025-08-11 18:56:55,251 - INFO - description: 12.5", Core i5 2.6GHz, 8GB, 180GB SSD, Win7 Pro 64bit
+2025-08-11 18:56:55,258 - INFO - reviews_count: 10
+2025-08-11 18:56:55,266 - INFO - rating: 3
+2025-08-11 18:56:55,268 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/41
+2025-08-11 18:56:55,329 - INFO - Opened detail page for ThinkPad X230
+2025-08-11 18:56:56,161 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/41
+2025-08-11 18:56:57,118 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:56:57,180 - INFO - description: 12.5", Core i5 2.6GHz, 8GB, 180GB SSD, Win7 Pro 64bit
+2025-08-11 18:56:57,180 - INFO - Detail page closed.
+2025-08-11 18:56:57,180 - INFO - Processing laptop card 94
+2025-08-11 18:56:57,202 - INFO - title: Asus ROG Strix GL753VE-GC096T
+2025-08-11 18:56:57,217 - INFO - price: $1,259.00
+2025-08-11 18:56:57,225 - INFO - description: Asus ROG Strix GL753VE-GC096T, 17.3" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 4GB, Windows 10 Home, Eng kbd
+2025-08-11 18:56:57,232 - INFO - reviews_count: 7
+2025-08-11 18:56:57,238 - INFO - rating: 4
+2025-08-11 18:56:57,241 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/130
+2025-08-11 18:56:57,296 - INFO - Opened detail page for Asus ROG Strix GL753VE-GC096T
+2025-08-11 18:56:58,569 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/130
+2025-08-11 18:56:59,487 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:56:59,555 - INFO - description: Asus ROG Strix GL753VE-GC096T, 17.3" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 4GB, Windows 10 Home, Eng kbd
+2025-08-11 18:56:59,555 - INFO - Detail page closed.
+2025-08-11 18:56:59,555 - INFO - Processing laptop card 95
+2025-08-11 18:56:59,572 - INFO - title: Apple MacBook Air 13"
+2025-08-11 18:56:59,584 - INFO - price: $1,260.13
+2025-08-11 18:56:59,591 - INFO - description: Apple MacBook Air 13", i5 1.8GHz, 8GB, 256GB SSD, Intel HD 6000, ENG
+2025-08-11 18:56:59,598 - INFO - reviews_count: 8
+2025-08-11 18:56:59,606 - INFO - rating: 4
+2025-08-11 18:56:59,609 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/131
+2025-08-11 18:56:59,672 - INFO - Opened detail page for Apple MacBook Air 13"
+2025-08-11 18:57:01,056 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/131
+2025-08-11 18:57:01,987 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:57:02,058 - INFO - description: Apple MacBook Air 13", i5 1.8GHz, 8GB, 256GB SSD, Intel HD 6000, ENG
+2025-08-11 18:57:02,059 - INFO - Detail page closed.
+2025-08-11 18:57:02,059 - INFO - Processing laptop card 96
+2025-08-11 18:57:02,076 - INFO - title: Dell Latitude 5480
+2025-08-11 18:57:02,087 - INFO - price: $1,271.06
+2025-08-11 18:57:02,107 - INFO - description: Dell Latitude 5480, 14" FHD, Core i7-7600U, 8GB, 1TB, GeForce GT930MX, Windows 10 Pro
+2025-08-11 18:57:02,116 - INFO - reviews_count: 13
+2025-08-11 18:57:02,123 - INFO - rating: 1
+2025-08-11 18:57:02,125 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/132
+2025-08-11 18:57:02,184 - INFO - Opened detail page for Dell Latitude 5480
+2025-08-11 18:57:03,460 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/132
+2025-08-11 18:57:04,429 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:57:04,491 - INFO - description: Dell Latitude 5480, 14" FHD, Core i7-7600U, 8GB, 1TB, GeForce GT930MX, Windows 10 Pro
+2025-08-11 18:57:04,491 - INFO - Detail page closed.
+2025-08-11 18:57:04,491 - INFO - Processing laptop card 97
+2025-08-11 18:57:04,508 - INFO - title: Hewlett Packard Spectre 13-v106na Dark Ash Silver
+2025-08-11 18:57:04,518 - INFO - price: $1,273.11
+2025-08-11 18:57:04,525 - INFO - description: Hewlett Packard Spectre 13-v106na Dark Ash Silver, 13.3" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Home
+2025-08-11 18:57:04,533 - INFO - reviews_count: 8
+2025-08-11 18:57:04,539 - INFO - rating: 3
+2025-08-11 18:57:04,542 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/133
+2025-08-11 18:57:04,602 - INFO - Opened detail page for Hewlett Packard Spectre 13-v106na Dark Ash Silver
+2025-08-11 18:57:05,886 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/133
+2025-08-11 18:57:06,869 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:57:06,940 - INFO - description: Hewlett Packard Spectre 13-v106na Dark Ash Silver, 13.3" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Home
+2025-08-11 18:57:06,940 - INFO - Detail page closed.
+2025-08-11 18:57:06,940 - INFO - Processing laptop card 98
+2025-08-11 18:57:06,951 - INFO - title: Dell XPS 13
+2025-08-11 18:57:06,963 - INFO - price: $1,281.99
+2025-08-11 18:57:06,970 - INFO - description: 13.3" Touch, Core i5-4210U, 8GB, 128GB SSD, Windows 8.1
+2025-08-11 18:57:06,978 - INFO - reviews_count: 4
+2025-08-11 18:57:06,986 - INFO - rating: 3
+2025-08-11 18:57:06,989 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/40
+2025-08-11 18:57:07,042 - INFO - Opened detail page for Dell XPS 13
+2025-08-11 18:57:07,868 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/40
+2025-08-11 18:57:08,832 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:57:08,899 - INFO - description: 13.3" Touch, Core i5-4210U, 8GB, 128GB SSD, Windows 8.1
+2025-08-11 18:57:08,899 - INFO - Detail page closed.
+2025-08-11 18:57:08,899 - INFO - Processing laptop card 99
+2025-08-11 18:57:08,914 - INFO - title: Toshiba Portege Z30-C-16K Grey
+2025-08-11 18:57:08,922 - INFO - price: $1,294.74
+2025-08-11 18:57:08,929 - INFO - description: Toshiba Portege Z30-C-16K Grey, 13.3" FHD, Core i5-6200U, 8GB, 256GB SSD, 4G, Windows 10 Pro
+2025-08-11 18:57:08,935 - INFO - reviews_count: 6
+2025-08-11 18:57:08,941 - INFO - rating: 1
+2025-08-11 18:57:08,945 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/134
+2025-08-11 18:57:09,000 - INFO - Opened detail page for Toshiba Portege Z30-C-16K Grey
+2025-08-11 18:57:10,294 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/134
+2025-08-11 18:57:11,261 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:57:11,330 - INFO - description: Toshiba Portege Z30-C-16K Grey, 13.3" FHD, Core i5-6200U, 8GB, 256GB SSD, 4G, Windows 10 Pro
+2025-08-11 18:57:11,331 - INFO - Detail page closed.
+2025-08-11 18:57:11,331 - INFO - Processing laptop card 100
+2025-08-11 18:57:11,350 - INFO - title: MSI GL62VR 7RFX
+2025-08-11 18:57:11,359 - INFO - price: $1,299.00
+2025-08-11 18:57:11,366 - INFO - description: MSI GL62VR 7RFX, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB + 256GB SSD, GeForce GTX 1060 3GB, Windows 10 Home
+2025-08-11 18:57:11,374 - INFO - reviews_count: 1
+2025-08-11 18:57:11,380 - INFO - rating: 3
+2025-08-11 18:57:11,383 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/135
+2025-08-11 18:57:11,439 - INFO - Opened detail page for MSI GL62VR 7RFX
+2025-08-11 18:57:12,770 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/135
+2025-08-11 18:57:13,731 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:57:13,788 - INFO - description: MSI GL62VR 7RFX, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB + 256GB SSD, GeForce GTX 1060 3GB, Windows 10 Home
+2025-08-11 18:57:13,788 - INFO - Detail page closed.
+2025-08-11 18:57:13,788 - INFO - Processing laptop card 101
+2025-08-11 18:57:13,798 - INFO - title: Dell Latitude 5480
+2025-08-11 18:57:13,809 - INFO - price: $1,310.39
+2025-08-11 18:57:13,817 - INFO - description: Dell Latitude 5480, 14" FHD, Core i7-7600U, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:57:13,824 - INFO - reviews_count: 8
+2025-08-11 18:57:13,831 - INFO - rating: 3
+2025-08-11 18:57:13,834 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/136
+2025-08-11 18:57:13,885 - INFO - Opened detail page for Dell Latitude 5480
+2025-08-11 18:57:14,775 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/136
+2025-08-11 18:57:15,755 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:57:15,803 - INFO - description: Dell Latitude 5480, 14" FHD, Core i7-7600U, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:57:15,804 - INFO - Detail page closed.
+2025-08-11 18:57:15,804 - INFO - Processing laptop card 102
+2025-08-11 18:57:15,818 - INFO - title: ThinkPad X240
+2025-08-11 18:57:15,832 - INFO - price: $1,311.99
+2025-08-11 18:57:15,839 - INFO - description: 12.5", Core i5-4300U, 8GB, 240GB SSD, Win7 Pro 64bit
+2025-08-11 18:57:15,846 - INFO - reviews_count: 12
+2025-08-11 18:57:15,853 - INFO - rating: 3
+2025-08-11 18:57:15,856 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/35
+2025-08-11 18:57:15,910 - INFO - Opened detail page for ThinkPad X240
+2025-08-11 18:57:16,787 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/35
+2025-08-11 18:57:17,754 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:57:17,800 - INFO - description: 12.5", Core i5-4300U, 8GB, 240GB SSD, Win7 Pro 64bit
+2025-08-11 18:57:17,800 - INFO - Detail page closed.
+2025-08-11 18:57:17,800 - INFO - Processing laptop card 103
+2025-08-11 18:57:17,812 - INFO - title: Hewlett Packard ProBook 640 G3
+2025-08-11 18:57:17,822 - INFO - price: $1,326.83
+2025-08-11 18:57:17,830 - INFO - description: Hewlett Packard ProBook 640 G3, 14" FHD, Core i7-7600U, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:57:17,837 - INFO - reviews_count: 2
+2025-08-11 18:57:17,845 - INFO - rating: 1
+2025-08-11 18:57:17,848 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/137
+2025-08-11 18:57:17,901 - INFO - Opened detail page for Hewlett Packard ProBook 640 G3
+2025-08-11 18:57:19,236 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/137
+2025-08-11 18:57:20,222 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:57:20,274 - INFO - description: Hewlett Packard ProBook 640 G3, 14" FHD, Core i7-7600U, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:57:20,274 - INFO - Detail page closed.
+2025-08-11 18:57:20,274 - INFO - Processing laptop card 104
+2025-08-11 18:57:20,291 - INFO - title: Apple MacBook Pro 13" Space Gray
+2025-08-11 18:57:20,302 - INFO - price: $1,333.00
+2025-08-11 18:57:20,310 - INFO - description: Apple MacBook Pro 13" Space Gray, Core i5 2.3GHz, 8GB, 128GB SSD, Iris Plus 640, ENG
+2025-08-11 18:57:20,323 - INFO - reviews_count: 0
+2025-08-11 18:57:20,330 - INFO - rating: 1
+2025-08-11 18:57:20,333 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/138
+2025-08-11 18:57:20,392 - INFO - Opened detail page for Apple MacBook Pro 13" Space Gray
+2025-08-11 18:57:22,226 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/138
+2025-08-11 18:57:23,219 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:57:23,262 - INFO - description: Apple MacBook Pro 13" Space Gray, Core i5 2.3GHz, 8GB, 128GB SSD, Iris Plus 640, ENG
+2025-08-11 18:57:23,263 - INFO - Detail page closed.
+2025-08-11 18:57:23,263 - INFO - Processing laptop card 105
+2025-08-11 18:57:23,275 - INFO - title: Dell Latitude 5580
+2025-08-11 18:57:23,281 - INFO - price: $1,337.28
+2025-08-11 18:57:23,288 - INFO - description: Dell Latitude 5580, 15.6" FHD, Core i7-7600U, 8GB, 256GB SSD, GeForce GT930MX, Windows 10 Pro
+2025-08-11 18:57:23,297 - INFO - reviews_count: 6
+2025-08-11 18:57:23,303 - INFO - rating: 1
+2025-08-11 18:57:23,306 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/139
+2025-08-11 18:57:23,357 - INFO - Opened detail page for Dell Latitude 5580
+2025-08-11 18:57:24,351 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/139
+2025-08-11 18:57:25,326 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:57:25,397 - INFO - description: Dell Latitude 5580, 15.6" FHD, Core i7-7600U, 8GB, 256GB SSD, GeForce GT930MX, Windows 10 Pro
+2025-08-11 18:57:25,397 - INFO - Detail page closed.
+2025-08-11 18:57:25,397 - INFO - Processing laptop card 106
+2025-08-11 18:57:25,415 - INFO - title: Dell Latitude 5480
+2025-08-11 18:57:25,425 - INFO - price: $1,338.37
+2025-08-11 18:57:25,434 - INFO - description: Dell Latitude 5480, 14" FHD, Core i7-7600U, 8GB, 256GB SSD, Linux + Windows 10 Home
+2025-08-11 18:57:25,440 - INFO - reviews_count: 11
+2025-08-11 18:57:25,446 - INFO - rating: 2
+2025-08-11 18:57:25,449 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/140
+2025-08-11 18:57:25,503 - INFO - Opened detail page for Dell Latitude 5480
+2025-08-11 18:57:26,427 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/140
+2025-08-11 18:57:27,408 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:57:27,477 - INFO - description: Dell Latitude 5480, 14" FHD, Core i7-7600U, 8GB, 256GB SSD, Linux + Windows 10 Home
+2025-08-11 18:57:27,477 - INFO - Detail page closed.
+2025-08-11 18:57:27,477 - INFO - Processing laptop card 107
+2025-08-11 18:57:27,493 - INFO - title: Dell Latitude 5580
+2025-08-11 18:57:27,500 - INFO - price: $1,341.22
+2025-08-11 18:57:27,509 - INFO - description: Dell Latitude 5580, 15.6" FHD, Core i7-7600U, 16GB, 256GB SSD, GeForce GT930MX, Linux
+2025-08-11 18:57:27,516 - INFO - reviews_count: 3
+2025-08-11 18:57:27,522 - INFO - rating: 3
+2025-08-11 18:57:27,525 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/141
+2025-08-11 18:57:27,578 - INFO - Opened detail page for Dell Latitude 5580
+2025-08-11 18:57:29,130 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/141
+2025-08-11 18:57:30,195 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:57:30,252 - INFO - description: Dell Latitude 5580, 15.6" FHD, Core i7-7600U, 16GB, 256GB SSD, GeForce GT930MX, Linux
+2025-08-11 18:57:30,252 - INFO - Detail page closed.
+2025-08-11 18:57:30,252 - INFO - Processing laptop card 108
+2025-08-11 18:57:30,268 - INFO - title: Apple MacBook Air 13"
+2025-08-11 18:57:30,282 - INFO - price: $1,347.78
+2025-08-11 18:57:30,290 - INFO - description: Apple MacBook Air 13", Intel Core i5 1.8GHz, 8GB, 256GB SSD, Intel HD 6000, RUS
+2025-08-11 18:57:30,298 - INFO - reviews_count: 11
+2025-08-11 18:57:30,305 - INFO - rating: 2
+2025-08-11 18:57:30,307 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/142
+2025-08-11 18:57:30,366 - INFO - Opened detail page for Apple MacBook Air 13"
+2025-08-11 18:57:31,728 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/142
+2025-08-11 18:57:32,683 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:57:32,762 - INFO - description: Apple MacBook Air 13", Intel Core i5 1.8GHz, 8GB, 256GB SSD, Intel HD 6000, RUS
+2025-08-11 18:57:32,762 - INFO - Detail page closed.
+2025-08-11 18:57:32,762 - INFO - Processing laptop card 109
+2025-08-11 18:57:32,778 - INFO - title: Lenovo ThinkPad T470
+2025-08-11 18:57:32,790 - INFO - price: $1,349.23
+2025-08-11 18:57:32,798 - INFO - description: Lenovo ThinkPad T470, 14" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:57:32,805 - INFO - reviews_count: 5
+2025-08-11 18:57:32,814 - INFO - rating: 1
+2025-08-11 18:57:32,818 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/143
+2025-08-11 18:57:32,876 - INFO - Opened detail page for Lenovo ThinkPad T470
+2025-08-11 18:57:34,150 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/143
+2025-08-11 18:57:35,146 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:57:35,213 - INFO - description: Lenovo ThinkPad T470, 14" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Pro
+2025-08-11 18:57:35,213 - INFO - Detail page closed.
+2025-08-11 18:57:35,213 - INFO - Processing laptop card 110
+2025-08-11 18:57:35,230 - INFO - title: Lenovo ThinkPad Yoga 370 Black
+2025-08-11 18:57:35,242 - INFO - price: $1,362.24
+2025-08-11 18:57:35,252 - INFO - description: Lenovo ThinkPad Yoga 370 Black, 13.3" FHD IPS Touch, Core i5-7200U, 8GB, 256GB SSD, 4G, Windows 10 Pro
+2025-08-11 18:57:35,260 - INFO - reviews_count: 12
+2025-08-11 18:57:35,268 - INFO - rating: 2
+2025-08-11 18:57:35,271 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/144
+2025-08-11 18:57:35,338 - INFO - Opened detail page for Lenovo ThinkPad Yoga 370 Black
+2025-08-11 18:57:36,744 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/144
+2025-08-11 18:57:37,751 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:57:37,807 - INFO - description: Lenovo ThinkPad Yoga 370 Black, 13.3" FHD IPS Touch, Core i5-7200U, 8GB, 256GB SSD, 4G, Windows 10 Pro
+2025-08-11 18:57:37,807 - INFO - Detail page closed.
+2025-08-11 18:57:37,807 - INFO - Processing laptop card 111
+2025-08-11 18:57:37,822 - INFO - title: Toshiba Portege X20W-D-10V Black/Blue
+2025-08-11 18:57:37,835 - INFO - price: $1,366.32
+2025-08-11 18:57:37,847 - INFO - description: Toshiba Portege X20W-D-10V Black/Blue, 12.5" FHD Touch, Core i7-7500U, 8GB, 512GB SSD, Windows 10 Pro
+2025-08-11 18:57:37,855 - INFO - reviews_count: 11
+2025-08-11 18:57:37,862 - INFO - rating: 1
+2025-08-11 18:57:37,866 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/145
+2025-08-11 18:57:37,924 - INFO - Opened detail page for Toshiba Portege X20W-D-10V Black/Blue
+2025-08-11 18:57:38,797 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/145
+2025-08-11 18:57:39,747 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:57:39,799 - INFO - description: Toshiba Portege X20W-D-10V Black/Blue, 12.5" FHD Touch, Core i7-7500U, 8GB, 512GB SSD, Windows 10 Pro
+2025-08-11 18:57:39,800 - INFO - Detail page closed.
+2025-08-11 18:57:39,800 - INFO - Processing laptop card 112
+2025-08-11 18:57:39,817 - INFO - title: Asus ASUSPRO B9440UA-GV0279R Gray
+2025-08-11 18:57:39,826 - INFO - price: $1,381.13
+2025-08-11 18:57:39,832 - INFO - description: Asus ASUSPRO B9440UA-GV0279R Gray, 14" FHD, Core i7-7500U, 16GB, 512GB SSD, Windows 10 Pro, Eng kbd
+2025-08-11 18:57:39,838 - INFO - reviews_count: 4
+2025-08-11 18:57:39,844 - INFO - rating: 1
+2025-08-11 18:57:39,846 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/146
+2025-08-11 18:57:39,900 - INFO - Opened detail page for Asus ASUSPRO B9440UA-GV0279R Gray
+2025-08-11 18:57:41,136 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/146
+2025-08-11 18:57:42,077 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:57:42,143 - INFO - description: Asus ASUSPRO B9440UA-GV0279R Gray, 14" FHD, Core i7-7500U, 16GB, 512GB SSD, Windows 10 Pro, Eng kbd
+2025-08-11 18:57:42,143 - INFO - Detail page closed.
+2025-08-11 18:57:42,143 - INFO - Processing laptop card 113
+2025-08-11 18:57:42,161 - INFO - title: Lenovo Legion Y720
+2025-08-11 18:57:42,176 - INFO - price: $1,399.00
+2025-08-11 18:57:42,191 - INFO - description: Lenovo Legion Y720, 15.6" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 2TB HDD, GeForce GTX 1060 6GB, DOS, RGB backlit keyboard
+2025-08-11 18:57:42,203 - INFO - reviews_count: 8
+2025-08-11 18:57:42,212 - INFO - rating: 3
+2025-08-11 18:57:42,216 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/56
+2025-08-11 18:57:42,277 - INFO - Opened detail page for Lenovo Legion Y720
+2025-08-11 18:57:43,537 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/56
+2025-08-11 18:57:44,477 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:57:44,547 - INFO - description: Lenovo Legion Y720, 15.6" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 2TB HDD, GeForce GTX 1060 6GB, DOS, RGB backlit keyboard
+2025-08-11 18:57:44,548 - INFO - Detail page closed.
+2025-08-11 18:57:44,548 - INFO - Processing laptop card 114
+2025-08-11 18:57:44,559 - INFO - title: Asus ROG Strix GL702VM-GC146T
+2025-08-11 18:57:44,568 - INFO - price: $1,399.00
+2025-08-11 18:57:44,576 - INFO - description: Asus ROG Strix GL702VM-GC146T, 17.3" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1060 3GB, Windows 10 Home, Eng kbd
+2025-08-11 18:57:44,582 - INFO - reviews_count: 10
+2025-08-11 18:57:44,590 - INFO - rating: 3
+2025-08-11 18:57:44,593 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/147
+2025-08-11 18:57:44,673 - INFO - Opened detail page for Asus ROG Strix GL702VM-GC146T
+2025-08-11 18:57:45,501 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/147
+2025-08-11 18:57:46,457 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:57:46,524 - INFO - description: Asus ROG Strix GL702VM-GC146T, 17.3" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1060 3GB, Windows 10 Home, Eng kbd
+2025-08-11 18:57:46,524 - INFO - Detail page closed.
+2025-08-11 18:57:46,524 - INFO - Processing laptop card 115
+2025-08-11 18:57:46,537 - INFO - title: Asus ROG Strix GL702ZC-GC154T
+2025-08-11 18:57:46,544 - INFO - price: $1,769.00
+2025-08-11 18:57:46,551 - INFO - description: Asus ROG Strix GL702ZC-GC154T, 17.3" FHD, Ryzen 7 1700, 16GB, 256GB + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home
+2025-08-11 18:57:46,558 - INFO - reviews_count: 7
+2025-08-11 18:57:46,566 - INFO - rating: 4
+2025-08-11 18:57:46,568 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/57
+2025-08-11 18:57:46,623 - INFO - Opened detail page for Asus ROG Strix GL702ZC-GC154T
+2025-08-11 18:57:47,501 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/57
+2025-08-11 18:57:48,471 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:57:48,535 - INFO - description: Asus ROG Strix GL702ZC-GC154T, 17.3" FHD, Ryzen 7 1700, 16GB, 256GB + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home
+2025-08-11 18:57:48,535 - INFO - Detail page closed.
+2025-08-11 18:57:48,535 - INFO - Processing laptop card 116
+2025-08-11 18:57:48,548 - INFO - title: Asus ROG Strix GL702ZC-GC209T
+2025-08-11 18:57:48,557 - INFO - price: $1,769.00
+2025-08-11 18:57:48,567 - INFO - description: Asus ROG Strix GL702ZC-GC209T, 17.3" FHD IPS, Ryzen 7 1700, 16GB, 256GB SSD + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home
+2025-08-11 18:57:48,574 - INFO - reviews_count: 8
+2025-08-11 18:57:48,583 - INFO - rating: 1
+2025-08-11 18:57:48,586 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/58
+2025-08-11 18:57:48,646 - INFO - Opened detail page for Asus ROG Strix GL702ZC-GC209T
+2025-08-11 18:57:49,907 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/58
+2025-08-11 18:57:50,847 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:57:50,916 - INFO - description: Asus ROG Strix GL702ZC-GC209T, 17.3" FHD IPS, Ryzen 7 1700, 16GB, 256GB SSD + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home
+2025-08-11 18:57:50,917 - INFO - Detail page closed.
+2025-08-11 18:57:50,917 - INFO - Processing laptop card 117
+2025-08-11 18:57:50,937 - INFO - title: Asus ROG Strix SCAR Edition GL503VM-ED115T
+2025-08-11 18:57:50,947 - INFO - price: $1,799.00
+2025-08-11 18:57:50,953 - INFO - description: Asus ROG Strix SCAR Edition GL503VM-ED115T, 15.6" FHD 120Hz, Core i7-7700HQ, 16GB, 256GB SSD + 1TB SSHD, GeForce GTX 1060 6GB, Windows 10 Home
+2025-08-11 18:57:50,960 - INFO - reviews_count: 8
+2025-08-11 18:57:50,967 - INFO - rating: 3
+2025-08-11 18:57:50,970 - INFO - product_url: https://webscraper.io/test-sites/e-commerce/allinone/product/59
+2025-08-11 18:57:51,025 - INFO - Opened detail page for Asus ROG Strix SCAR Edition GL503VM-ED115T
+2025-08-11 18:57:52,319 - INFO - Navigated to detail page: https://webscraper.io/test-sites/e-commerce/allinone/product/59
+2025-08-11 18:57:53,272 - INFO - Detail page load state 'networkidle' reached.
+2025-08-11 18:57:53,316 - INFO - description: Asus ROG Strix SCAR Edition GL503VM-ED115T, 15.6" FHD 120Hz, Core i7-7700HQ, 16GB, 256GB SSD + 1TB SSHD, GeForce GTX 1060 6GB, Windows 10 Home
+2025-08-11 18:57:53,316 - INFO - Detail page closed.
+2025-08-11 18:57:53,327 - INFO - No more pages. Scraping finished.
+2025-08-11 18:57:53,430 - INFO - Browser closed.
+2025-08-11 18:57:53,451 - INFO - Scraping complete. 117 products saved to output.json.
